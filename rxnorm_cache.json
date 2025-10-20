@@ -1,0 +1,6540 @@
+{
+  "name_to_rxcui": {
+    "A/B Otic": {
+      "rxcui": "214911",
+      "matched_name": "A/B Otic",
+      "score": "10.499709129333496"
+    },
+    "AI Overview Prilosec": {
+      "rxcui": "203345",
+      "matched_name": "Prilosec",
+      "score": "13.754889488220215"
+    },
+    "Abilify": {
+      "rxcui": "352393",
+      "matched_name": "Abilify",
+      "score": "12.871798515319824"
+    },
+    "About oxycodone": {
+      "rxcui": "7804",
+      "matched_name": "oxycodone",
+      "score": "11.27214527130127"
+    },
+    "Acarbose": {
+      "rxcui": "16681",
+      "matched_name": "acarbose",
+      "score": "13.561490058898926"
+    },
+    "Accutane": {
+      "rxcui": "202795",
+      "matched_name": "Accutane",
+      "score": "13.52615737915039"
+    },
+    "Aciphex": {
+      "rxcui": "261440",
+      "matched_name": "Aciphex",
+      "score": "14.083183288574219"
+    },
+    "Actonel": {
+      "rxcui": "753143",
+      "matched_name": "Actonel",
+      "score": "13.857405662536621"
+    },
+    "Adderal XR": {
+      "rxcui": "540479",
+      "matched_name": "amphetamine / dextroamphetamine Extended Release Oral Capsule [Adderall]",
+      "score": "10.935224690234945"
+    },
+    "Adderall": {
+      "rxcui": "84815",
+      "matched_name": "Adderall",
+      "score": "13.4448881149292"
+    },
+    "Adrenal XR": {
+      "rxcui": "91413",
+      "matched_name": "adrenal cortex extract",
+      "score": "10.31677102558136"
+    },
+    "Advair": {
+      "rxcui": "301543",
+      "matched_name": "Advair",
+      "score": "13.211824417114258"
+    },
+    "Advair Diskus": {
+      "rxcui": "301543",
+      "matched_name": "Advair",
+      "score": "13.211824417114258"
+    },
+    "Advair Inhalant Product": {
+      "rxcui": "1171309",
+      "matched_name": "Advair Inhalant Product",
+      "score": "15.246303126811982"
+    },
+    "Advil": {
+      "rxcui": "153010",
+      "matched_name": "Advil",
+      "score": "13.096840858459473"
+    },
+    "Ajovy": {
+      "rxcui": "2056696",
+      "matched_name": "Ajovy",
+      "score": "14.459686279296875"
+    },
+    "Albuteral Inhaler": {
+      "rxcui": "2108226",
+      "matched_name": "albuterol Inhalation Solution",
+      "score": "10.797990714073181"
+    },
+    "Aldactone": {
+      "rxcui": "151317",
+      "matched_name": "Aldactone",
+      "score": "14.527825355529785"
+    },
+    "Alendronate sodium": {
+      "rxcui": "203152",
+      "matched_name": "alendronate sodium",
+      "score": "14.356386184692383"
+    },
+    "Alfalfa": {
+      "rxcui": "323994",
+      "matched_name": "alfalfa oil",
+      "score": "12.710102951049805"
+    },
+    "Alfuzosin": {
+      "rxcui": "17300",
+      "matched_name": "alfuzosin",
+      "score": "13.487060546875"
+    },
+    "Allbuteral inhaler": {
+      "rxcui": "2108226",
+      "matched_name": "albuterol Inhalation Solution",
+      "score": "10.797990714073181"
+    },
+    "Allegra": {
+      "rxcui": "324026",
+      "matched_name": "Allegra",
+      "score": "13.306034088134766"
+    },
+    "Allopurinol": {
+      "rxcui": "519",
+      "matched_name": "allopurinol",
+      "score": "12.648469924926758"
+    },
+    "Altamine": {
+      "rxcui": "603917",
+      "matched_name": "Altazine",
+      "score": "10.895541191101074"
+    },
+    "Altazine": {
+      "rxcui": "603917",
+      "matched_name": "Altazine",
+      "score": "10.895541191101074"
+    },
+    "Ambien": {
+      "rxcui": "131725",
+      "matched_name": "Ambien",
+      "score": "13.977450370788574"
+    },
+    "Ambrisentan": {
+      "rxcui": "358274",
+      "matched_name": "ambrisentan",
+      "score": "13.770971298217773"
+    },
+    "Amiodipine Besylate": {
+      "rxcui": "104416",
+      "matched_name": "amlodipine besylate",
+      "score": "12.117987632751465"
+    },
+    "Amitiza": {
+      "rxcui": "615205",
+      "matched_name": "Amitiza",
+      "score": "14.459686279296875"
+    },
+    "Amitriptyline": {
+      "rxcui": "704",
+      "matched_name": "amitriptyline",
+      "score": "12.136085510253906"
+    },
+    "Amlodipine": {
+      "rxcui": "17767",
+      "matched_name": "amlodipine",
+      "score": "11.3312349319458"
+    },
+    "Anastrozole": {
+      "rxcui": "84857",
+      "matched_name": "anastrozole",
+      "score": "13.573673248291016"
+    },
+    "Antabuse": {
+      "rxcui": "151358",
+      "matched_name": "Antabuse",
+      "score": "14.718400955200195"
+    },
+    "Apixaban": {
+      "rxcui": "1364430",
+      "matched_name": "apixaban",
+      "score": "13.644734382629395"
+    },
+    "Apretude": {
+      "rxcui": "2588044",
+      "matched_name": "Apretude",
+      "score": "14.895214080810547"
+    },
+    "Arava": {
+      "rxcui": "215393",
+      "matched_name": "Arava",
+      "score": "14.552087783813477"
+    },
+    "Aricept": {
+      "rxcui": "135446",
+      "matched_name": "Aricept",
+      "score": "13.945465087890625"
+    },
+    "Arimidex": {
+      "rxcui": "262485",
+      "matched_name": "Arimidex",
+      "score": "14.718400955200195"
+    },
+    "Armour Thyroid": {
+      "rxcui": "215407",
+      "matched_name": "Armour Thyroid",
+      "score": "17.339946746826172"
+    },
+    "Ascorbic Acid (Vitamin C) Chewable Tablets": {
+      "rxcui": "369676",
+      "matched_name": "ascorbic acid Chewable Tablet [Sunkist Vitamin C]",
+      "score": "16.953804089927676"
+    },
+    "Aspir-Low": {
+      "rxcui": "215431",
+      "matched_name": "Aspir-Low",
+      "score": "10.738280773162842"
+    },
+    "Aspirin": {
+      "rxcui": "1191",
+      "matched_name": "aspirin",
+      "score": "10.353462219238281"
+    },
+    "Atazanavir": {
+      "rxcui": "343047",
+      "matched_name": "atazanavir",
+      "score": "13.15536880493164"
+    },
+    "Atenolol": {
+      "rxcui": "1202",
+      "matched_name": "atenolol",
+      "score": "12.37568473815918"
+    },
+    "Ativan": {
+      "rxcui": "202479",
+      "matched_name": "Ativan",
+      "score": "13.586071014404297"
+    },
+    "Atripla": {
+      "rxcui": "643067",
+      "matched_name": "Atripla",
+      "score": "14.936612129211426"
+    },
+    "Atrovastatin Calcium": {
+      "rxcui": "83366",
+      "matched_name": "atorvastatin calcium",
+      "score": "11.840313911437988"
+    },
+    "Atrovistatin Calcium": {
+      "rxcui": "83366",
+      "matched_name": "atorvastatin calcium",
+      "score": "11.095410346984863"
+    },
+    "Azelastine": {
+      "rxcui": "18603",
+      "matched_name": "azelastine",
+      "score": "13.075333595275879"
+    },
+    "Azelastine Nasal Spray": {
+      "rxcui": "636215",
+      "matched_name": "azelastine Nasal Spray",
+      "score": "17.383914947509766"
+    },
+    "B 12 a shot": {
+      "rxcui": "214911",
+      "matched_name": "A/B Otic",
+      "score": "10.499709129333496"
+    },
+    "B complex": {
+      "rxcui": "543613",
+      "matched_name": "Complex B",
+      "score": "13.702225685119629"
+    },
+    "Baclofen": {
+      "rxcui": "1292",
+      "matched_name": "baclofen",
+      "score": "12.174545288085938"
+    },
+    "Basaglar": {
+      "rxcui": "1736859",
+      "matched_name": "Basaglar",
+      "score": "14.630341529846191"
+    },
+    "Benadryl": {
+      "rxcui": "203457",
+      "matched_name": "Benadryl",
+      "score": "12.47533130645752"
+    },
+    "Benazepril Hydrochloride": {
+      "rxcui": "235758",
+      "matched_name": "benazepril hydrochloride",
+      "score": "13.315996170043945"
+    },
+    "Betamethasone valerate": {
+      "rxcui": "227897",
+      "matched_name": "betamethasone valerate",
+      "score": "16.310848236083984"
+    },
+    "Biotin": {
+      "rxcui": "1588",
+      "matched_name": "biotin",
+      "score": "11.063909530639648"
+    },
+    "Bisoprolol": {
+      "rxcui": "19484",
+      "matched_name": "bisoprolol",
+      "score": "12.79869270324707"
+    },
+    "Blis-To-Sol": {
+      "rxcui": "215705",
+      "matched_name": "Blis-To-Sol",
+      "score": "10.072524316943422"
+    },
+    "Boniva": {
+      "rxcui": "541684",
+      "matched_name": "Boniva",
+      "score": "14.340490341186523"
+    },
+    "Botox": {
+      "rxcui": "203279",
+      "matched_name": "Botox",
+      "score": "14.178035736083984"
+    },
+    "Breo": {
+      "rxcui": "1539887",
+      "matched_name": "Breo",
+      "score": "13.999611854553223"
+    },
+    "Breo Ellipta": {
+      "rxcui": "1539891",
+      "matched_name": "Breo Ellipta Institutional Pack",
+      "score": "14.804510683915591"
+    },
+    "Breo Ellipta Institutional Pack": {
+      "rxcui": "1539891",
+      "matched_name": "Breo Ellipta Institutional Pack",
+      "score": "14.804510683915591"
+    },
+    "Brinzolamide": {
+      "rxcui": "194881",
+      "matched_name": "brinzolamide",
+      "score": "13.66542911529541"
+    },
+    "Budesonide": {
+      "rxcui": "19831",
+      "matched_name": "budesonide",
+      "score": "12.263164520263672"
+    },
+    "Bumetanide": {
+      "rxcui": "1808",
+      "matched_name": "bumetanide",
+      "score": "12.73807144165039"
+    },
+    "Bupropion": {
+      "rxcui": "42347",
+      "matched_name": "bupropion",
+      "score": "11.995771408081055"
+    },
+    "Bupropion HCl": {
+      "rxcui": "203204",
+      "matched_name": "bupropion hydrochloride",
+      "score": "13.116260528564453"
+    },
+    "Buspar": {
+      "rxcui": "154990",
+      "matched_name": "Buspar",
+      "score": "14.109004020690918"
+    },
+    "But all-Acetaminophen-Caff": {
+      "rxcui": "108038",
+      "matched_name": "acetaminophen / caffeine",
+      "score": "12.827075004577637"
+    },
+    "Butalbital acetaminophen a caffeine": {
+      "rxcui": "214130",
+      "matched_name": "acetaminophen / butalbital / caffeine",
+      "score": "16.498699188232422"
+    },
+    "Calcium carbonate/vitamin D3": {
+      "rxcui": "1310948",
+      "matched_name": "calcium carbonate 1500 MG / vitamin D3 800 UNT Oral Tablet",
+      "score": "12.708352971126535"
+    },
+    "Callergy": {
+      "rxcui": "215845",
+      "matched_name": "Callergy",
+      "score": "10.244034767150879"
+    },
+    "Candesartan": {
+      "rxcui": "214354",
+      "matched_name": "candesartan",
+      "score": "12.90188980102539"
+    },
+    "Carafate": {
+      "rxcui": "227743",
+      "matched_name": "Carafate",
+      "score": "14.527825355529785"
+    },
+    "Cardizem": {
+      "rxcui": "203494",
+      "matched_name": "Cardizem",
+      "score": "12.680532455444336"
+    },
+    "Cartia": {
+      "rxcui": "491095",
+      "matched_name": "Cartia",
+      "score": "13.804282188415527"
+    },
+    "Cartia (Cardizem)": {
+      "rxcui": "491095",
+      "matched_name": "Cartia",
+      "score": "13.804282188415527"
+    },
+    "Celebrex": {
+      "rxcui": "215927",
+      "matched_name": "Celebrex",
+      "score": "13.795804977416992"
+    },
+    "Celecoxib": {
+      "rxcui": "140587",
+      "matched_name": "celecoxib",
+      "score": "12.427952766418457"
+    },
+    "Celexa": {
+      "rxcui": "215928",
+      "matched_name": "Celexa",
+      "score": "14.01095962524414"
+    },
+    "Cellcept": {
+      "rxcui": "152633",
+      "matched_name": "Cellcept",
+      "score": "14.122279167175293"
+    },
+    "Cetirizine": {
+      "rxcui": "20610",
+      "matched_name": "cetirizine",
+      "score": "11.396859169006348"
+    },
+    "Cetirizine hydrochloride": {
+      "rxcui": "203150",
+      "matched_name": "cetirizine hydrochloride",
+      "score": "12.564458847045898"
+    },
+    "Chlorpheniramine": {
+      "rxcui": "2400",
+      "matched_name": "chlorpheniramine",
+      "score": "10.380846977233887"
+    },
+    "Chlorthalidone": {
+      "rxcui": "2409",
+      "matched_name": "chlorthalidone",
+      "score": "12.45124340057373"
+    },
+    "Cholecalciferol": {
+      "rxcui": "2418",
+      "matched_name": "cholecalciferol",
+      "score": "10.863049507141113"
+    },
+    "Cialis": {
+      "rxcui": "303263",
+      "matched_name": "Cialis",
+      "score": "14.109004020690918"
+    },
+    "Cinvastatin": {
+      "rxcui": "2540",
+      "matched_name": "cilastatin",
+      "score": "10.427217483520508"
+    },
+    "Cipro": {
+      "rxcui": "203563",
+      "matched_name": "Cipro",
+      "score": "13.400280952453613"
+    },
+    "Citracal": {
+      "rxcui": "1362890",
+      "matched_name": "citral",
+      "score": "11.33305549621582"
+    },
+    "Clarispray": {
+      "rxcui": "1742498",
+      "matched_name": "Clarispray",
+      "score": "15.131941795349121"
+    },
+    "Claritin": {
+      "rxcui": "203576",
+      "matched_name": "Claritin",
+      "score": "13.253445625305176"
+    },
+    "Clobetasol": {
+      "rxcui": "2590",
+      "matched_name": "clobetasol",
+      "score": "12.271803855895996"
+    },
+    "Clobetasol Propinate": {
+      "rxcui": "21245",
+      "matched_name": "clobetasol propionate",
+      "score": "13.730995178222656"
+    },
+    "Clonazepam": {
+      "rxcui": "2598",
+      "matched_name": "clonazepam",
+      "score": "12.506986618041992"
+    },
+    "Clopidogrel": {
+      "rxcui": "32968",
+      "matched_name": "clopidogrel",
+      "score": "13.028509140014648"
+    },
+    "Cobalamin (Vitamin B12)": {
+      "rxcui": "1009129",
+      "matched_name": "mecobalamin / vitamin B12",
+      "score": "11.774116516113281"
+    },
+    "Colace": {
+      "rxcui": "82000",
+      "matched_name": "Colace",
+      "score": "13.372040748596191"
+    },
+    "Colchicine": {
+      "rxcui": "2683",
+      "matched_name": "colchicine",
+      "score": "13.02006721496582"
+    },
+    "Colestid": {
+      "rxcui": "151533",
+      "matched_name": "Colestid",
+      "score": "14.438364028930664"
+    },
+    "Complex B": {
+      "rxcui": "543613",
+      "matched_name": "Complex B",
+      "score": "13.702225685119629"
+    },
+    "Coreg": {
+      "rxcui": "216221",
+      "matched_name": "Coreg",
+      "score": "13.514762878417969"
+    },
+    "Coumadin": {
+      "rxcui": "202421",
+      "matched_name": "Coumadin",
+      "score": "13.605087280273438"
+    },
+    "Creastor": {
+      "rxcui": "320864",
+      "matched_name": "Crestor",
+      "score": "10.392274856567383"
+    },
+    "Creon": {
+      "rxcui": "48470",
+      "matched_name": "Creon",
+      "score": "13.586071014404297"
+    },
+    "Crestor": {
+      "rxcui": "320864",
+      "matched_name": "Crestor",
+      "score": "10.392274856567383"
+    },
+    "Curcumin Supplement": {
+      "rxcui": "2955",
+      "matched_name": "curcumin",
+      "score": "13.821548461914062"
+    },
+    "Cyclobenzaprine": {
+      "rxcui": "21949",
+      "matched_name": "cyclobenzaprine",
+      "score": "12.3984375"
+    },
+    "Cymbalta": {
+      "rxcui": "482574",
+      "matched_name": "Cymbalta",
+      "score": "14.109004020690918"
+    },
+    "Daily Hist": {
+      "rxcui": "216351",
+      "matched_name": "Daily Hist",
+      "score": "10.673041892051696"
+    },
+    "Daily destress- ashwaganda": {
+      "rxcui": "216351",
+      "matched_name": "Daily Hist",
+      "score": "10.673041892051696"
+    },
+    "Daypro": {
+      "rxcui": "157381",
+      "matched_name": "Daypro",
+      "score": "14.936612129211426"
+    },
+    "Descovy": {
+      "rxcui": "1747692",
+      "matched_name": "Descovy",
+      "score": "10.14892578125"
+    },
+    "Desmopressin": {
+      "rxcui": "3251",
+      "matched_name": "desmopressin",
+      "score": "12.673660278320312"
+    },
+    "Devil's Claw Extract": {
+      "rxcui": "236279",
+      "matched_name": "devil's claw preparation",
+      "score": "20.28226246833801"
+    },
+    "Dexilant": {
+      "rxcui": "902621",
+      "matched_name": "Dexilant",
+      "score": "14.527825355529785"
+    },
+    "Dicyclomine": {
+      "rxcui": "3361",
+      "matched_name": "dicyclomine",
+      "score": "12.62734603881836"
+    },
+    "Digoxin": {
+      "rxcui": "3407",
+      "matched_name": "digoxin",
+      "score": "12.33017349243164"
+    },
+    "Diltiazem": {
+      "rxcui": "3443",
+      "matched_name": "diltiazem",
+      "score": "11.047279357910156"
+    },
+    "Diltiazem hydrochloride": {
+      "rxcui": "203211",
+      "matched_name": "diltiazem hydrochloride",
+      "score": "12.242377281188965"
+    },
+    "Diovan HCT": {
+      "rxcui": "216653",
+      "matched_name": "Diovan HCT",
+      "score": "16.438987731933594"
+    },
+    "Discovy": {
+      "rxcui": "1747692",
+      "matched_name": "Descovy",
+      "score": "10.14892578125"
+    },
+    "Dojolvi medium chain-triglycerides": {
+      "rxcui": "1310578",
+      "matched_name": "medium chain triglycerides",
+      "score": "30.965946197509766"
+    },
+    "Dorzolamide": {
+      "rxcui": "60207",
+      "matched_name": "dorzolamide",
+      "score": "13.066312789916992"
+    },
+    "Dovato": {
+      "rxcui": "2122521",
+      "matched_name": "Dovato",
+      "score": "14.856118202209473"
+    },
+    "Doxepin": {
+      "rxcui": "3638",
+      "matched_name": "doxepin",
+      "score": "12.406578063964844"
+    },
+    "Doxycycline": {
+      "rxcui": "3640",
+      "matched_name": "doxycycline",
+      "score": "11.620891571044922"
+    },
+    "Doxycycline hyclate": {
+      "rxcui": "23663",
+      "matched_name": "doxycycline hyclate",
+      "score": "15.925935745239258"
+    },
+    "Dulcolax": {
+      "rxcui": "151672",
+      "matched_name": "Dulcolax",
+      "score": "13.567554473876953"
+    },
+    "Duloxetine (oral route)": {
+      "rxcui": "72625",
+      "matched_name": "duloxetine",
+      "score": "12.47533130645752"
+    },
+    "Dupixent": {
+      "rxcui": "1876402",
+      "matched_name": "Dupixent",
+      "score": "14.01095962524414"
+    },
+    "Dutasteride (oral route)": {
+      "rxcui": "228790",
+      "matched_name": "dutasteride",
+      "score": "13.400280952453613"
+    },
+    "Effexor": {
+      "rxcui": "151692",
+      "matched_name": "Effexor",
+      "score": "13.637969017028809"
+    },
+    "Effexor XR": {
+      "rxcui": "729928",
+      "matched_name": "venlafaxine Extended Release Oral Capsule [Effexor]",
+      "score": "14.911458806990474"
+    },
+    "Efudex": {
+      "rxcui": "224945",
+      "matched_name": "Efudex",
+      "score": "14.30486011505127"
+    },
+    "Electronic Communications Act": {
+      "rxcui": "1014651",
+      "matched_name": "Wal-Act",
+      "score": "11.579833761850994"
+    },
+    "Eliquis": {
+      "rxcui": "1364436",
+      "matched_name": "Eliquis",
+      "score": "14.178035736083984"
+    },
+    "Emgality": {
+      "rxcui": "2058873",
+      "matched_name": "Emgality",
+      "score": "14.30486011505127"
+    },
+    "Enalapril": {
+      "rxcui": "3827",
+      "matched_name": "enalapril",
+      "score": "12.418373107910156"
+    },
+    "Enbrel (etanercept)": {
+      "rxcui": "2182339",
+      "matched_name": "etanercept Cartridge [Enbrel]",
+      "score": "18.236146926879883"
+    },
+    "Entresto": {
+      "rxcui": "1656341",
+      "matched_name": "Entresto",
+      "score": "14.109004020690918"
+    },
+    "Entresto (sacubitril/valsartan)": {
+      "rxcui": "2679796",
+      "matched_name": "sacubitril / valsartan Oral Pellet [Entresto]",
+      "score": "20.58907127380371"
+    },
+    "Entyvio": {
+      "rxcui": "1538138",
+      "matched_name": "Entyvio",
+      "score": "14.417669296264648"
+    },
+    "EpiPen": {
+      "rxcui": "727341",
+      "matched_name": "Epipen",
+      "score": "14.022493362426758"
+    },
+    "Epinephrine": {
+      "rxcui": "3992",
+      "matched_name": "epinephrine",
+      "score": "11.072286605834961"
+    },
+    "Epipen": {
+      "rxcui": "727341",
+      "matched_name": "Epipen",
+      "score": "14.022493362426758"
+    },
+    "Esomeprazole magnesium": {
+      "rxcui": "283562",
+      "matched_name": "esomeprazole magnesium",
+      "score": "14.738840103149414"
+    },
+    "Esomeprezol- Nexium": {
+      "rxcui": "1728039",
+      "matched_name": "esomeprazole Injection [Nexium]",
+      "score": "14.202839851379395"
+    },
+    "Estrace": {
+      "rxcui": "202619",
+      "matched_name": "Estrace",
+      "score": "14.178035736083984"
+    },
+    "Estradiol Valerate": {
+      "rxcui": "24395",
+      "matched_name": "estradiol valerate",
+      "score": "15.452999114990234"
+    },
+    "Estradiol cream": {
+      "rxcui": "378615",
+      "matched_name": "estradiol Vaginal Cream",
+      "score": "12.223041915893555"
+    },
+    "Estrogel": {
+      "rxcui": "405052",
+      "matched_name": "Estrogel",
+      "score": "14.895214080810547"
+    },
+    "Estrogen": {
+      "rxcui": "216993",
+      "matched_name": "Estrogenic",
+      "score": "11.878289222717285"
+    },
+    "Estrogen Patch": {
+      "rxcui": "216993",
+      "matched_name": "Estrogenic",
+      "score": "11.878289222717285"
+    },
+    "Estrogenic": {
+      "rxcui": "216993",
+      "matched_name": "Estrogenic",
+      "score": "11.878289222717285"
+    },
+    "Euflexxa": {
+      "rxcui": "604726",
+      "matched_name": "Euflexxa",
+      "score": "14.895214080810547"
+    },
+    "Exemestane": {
+      "rxcui": "258494",
+      "matched_name": "exemestane",
+      "score": "14.022493362426758"
+    },
+    "Ezetimibe (Zetia)": {
+      "rxcui": "368566",
+      "matched_name": "ezetimibe Oral Tablet [Zetia]",
+      "score": "17.733579488754273"
+    },
+    "FARXIGA (Dapagliflozin)": {
+      "rxcui": "1534343",
+      "matched_name": "dapagliflozin Oral Tablet [Farxiga]",
+      "score": "17.51745339870453"
+    },
+    "Famciclovir": {
+      "rxcui": "68099",
+      "matched_name": "famciclovir",
+      "score": "13.498011589050293"
+    },
+    "Famotidine": {
+      "rxcui": "4278",
+      "matched_name": "famotidine",
+      "score": "11.705843925476074"
+    },
+    "Ferrous Sulfate": {
+      "rxcui": "24947",
+      "matched_name": "ferrous sulfate",
+      "score": "13.238433837890625"
+    },
+    "Finasteride": {
+      "rxcui": "25025",
+      "matched_name": "finasteride",
+      "score": "13.081411361694336"
+    },
+    "Flagyl": {
+      "rxcui": "202866",
+      "matched_name": "Flagyl",
+      "score": "13.701332092285156"
+    },
+    "Flecainide": {
+      "rxcui": "4441",
+      "matched_name": "flecainide",
+      "score": "13.277229309082031"
+    },
+    "Flomax": {
+      "rxcui": "190283",
+      "matched_name": "Flomax",
+      "score": "14.783894538879395"
+    },
+    "Flonase": {
+      "rxcui": "83373",
+      "matched_name": "Flonase",
+      "score": "13.924921989440918"
+    },
+    "Flovent Inhalant Product": {
+      "rxcui": "1169793",
+      "matched_name": "Flovent Inhalant Product",
+      "score": "15.428050243377687"
+    },
+    "Flovent inhaler": {
+      "rxcui": "1169793",
+      "matched_name": "Flovent Inhalant Product",
+      "score": "15.428050243377687"
+    },
+    "Fluorouracil Topical": {
+      "rxcui": "377700",
+      "matched_name": "fluorouracil Topical Cream",
+      "score": "13.043922240257263"
+    },
+    "Fluticasone propionate": {
+      "rxcui": "50121",
+      "matched_name": "fluticasone propionate",
+      "score": "14.922711372375488"
+    },
+    "Fluticasone- salmeterol": {
+      "rxcui": "284635",
+      "matched_name": "fluticasone / salmeterol",
+      "score": "20.07505989074707"
+    },
+    "Fluvoxamine": {
+      "rxcui": "42355",
+      "matched_name": "fluvoxamine",
+      "score": "13.054463386535645"
+    },
+    "Folic Acid": {
+      "rxcui": "4511",
+      "matched_name": "folic acid",
+      "score": "12.206735610961914"
+    },
+    "Fosamax": {
+      "rxcui": "114265",
+      "matched_name": "Fosamax",
+      "score": "13.770971298217773"
+    },
+    "Furosemide": {
+      "rxcui": "4603",
+      "matched_name": "furosemide",
+      "score": "12.044382095336914"
+    },
+    "GLYXAMBI": {
+      "rxcui": "1602110",
+      "matched_name": "Glyxambi",
+      "score": "14.750386238098145"
+    },
+    "Generic Zyrtec": {
+      "rxcui": "58930",
+      "matched_name": "Zyrtec",
+      "score": "13.075333595275879"
+    },
+    "Genvoya": {
+      "rxcui": "1721614",
+      "matched_name": "Genvoya",
+      "score": "15.027519226074219"
+    },
+    "Ginger Extract": {
+      "rxcui": "285241",
+      "matched_name": "ginger extract",
+      "score": "14.435040473937988"
+    },
+    "Glimepiride": {
+      "rxcui": "25789",
+      "matched_name": "glimepiride",
+      "score": "12.671952247619629"
+    },
+    "Glipizide": {
+      "rxcui": "4821",
+      "matched_name": "glipizide",
+      "score": "12.460022926330566"
+    },
+    "Glucosamine Chondroitin MSM complex": {
+      "rxcui": "1007537",
+      "matched_name": "chondroitin sulfates / glucosamine / methylsulfonylmethane",
+      "score": "18.300951290130616"
+    },
+    "Glyxambi": {
+      "rxcui": "1602110",
+      "matched_name": "Glyxambi",
+      "score": "14.750386238098145"
+    },
+    "HRT Progesterone": {
+      "rxcui": "8727",
+      "matched_name": "progesterone",
+      "score": "12.351478576660156"
+    },
+    "Haloperidol": {
+      "rxcui": "5093",
+      "matched_name": "haloperidol",
+      "score": "12.316662788391113"
+    },
+    "High Bad Cholesterol": {
+      "rxcui": "2438",
+      "matched_name": "cholesterol",
+      "score": "13.07836627960205"
+    },
+    "Horizant": {
+      "rxcui": "1095698",
+      "matched_name": "Horizant",
+      "score": "14.630341529846191"
+    },
+    "How to Use Bupropion SR": {
+      "rxcui": "42347",
+      "matched_name": "bupropion",
+      "score": "11.995771408081055"
+    },
+    "Humalog": {
+      "rxcui": "135805",
+      "matched_name": "Humalog",
+      "score": "13.145269393920898"
+    },
+    "Humalog (insulin lispro)": {
+      "rxcui": "1652645",
+      "matched_name": "insulin lispro Cartridge [Humalog]",
+      "score": "19.418624877929688"
+    },
+    "Humira": {
+      "rxcui": "353484",
+      "matched_name": "Humira",
+      "score": "13.115814208984375"
+    },
+    "Hydro 40": {
+      "rxcui": "727272",
+      "matched_name": "Hydro 40",
+      "score": "12.28498363494873"
+    },
+    "Hydrochlorothiazide": {
+      "rxcui": "5487",
+      "matched_name": "hydrochlorothiazide",
+      "score": "10.825102806091309"
+    },
+    "Hydrocodon": {
+      "rxcui": "5489",
+      "matched_name": "hydrocodone",
+      "score": "10.480945587158203"
+    },
+    "Hydroquinone": {
+      "rxcui": "5509",
+      "matched_name": "hydroquinone",
+      "score": "12.030538558959961"
+    },
+    "Hydroxyurea": {
+      "rxcui": "5552",
+      "matched_name": "hydroxyurea",
+      "score": "13.281272888183594"
+    },
+    "Ibandronate": {
+      "rxcui": "115264",
+      "matched_name": "ibandronate",
+      "score": "13.367443084716797"
+    },
+    "Ibuprofen and Acetaminophen": {
+      "rxcui": "818102",
+      "matched_name": "acetaminophen / ibuprofen",
+      "score": "12.64629077911377"
+    },
+    "Imitrex": {
+      "rxcui": "217713",
+      "matched_name": "Imitrex",
+      "score": "13.419757843017578"
+    },
+    "Intuniv": {
+      "rxcui": "862007",
+      "matched_name": "Intuniv",
+      "score": "13.839248657226562"
+    },
+    "Invokana": {
+      "rxcui": "1373464",
+      "matched_name": "Invokana",
+      "score": "14.552087783813477"
+    },
+    "Irbesartan": {
+      "rxcui": "83818",
+      "matched_name": "irbesartan",
+      "score": "12.878629684448242"
+    },
+    "Iron": {
+      "rxcui": "90176",
+      "matched_name": "iron",
+      "score": "10.393510818481445"
+    },
+    "Is There Really Any Benefit to Multivitamins": {
+      "rxcui": "215705",
+      "matched_name": "Blis-To-Sol",
+      "score": "10.072524316943422"
+    },
+    "Isentress": {
+      "rxcui": "744843",
+      "matched_name": "Isentress",
+      "score": "13.977450370788574"
+    },
+    "Isosorbide": {
+      "rxcui": "6057",
+      "matched_name": "isosorbide",
+      "score": "12.040199279785156"
+    },
+    "Jardiance": {
+      "rxcui": "1545659",
+      "matched_name": "Jardiance",
+      "score": "14.459686279296875"
+    },
+    "Kenalog": {
+      "rxcui": "202877",
+      "matched_name": "Kenalog",
+      "score": "13.211824417114258"
+    },
+    "Ketoconazole": {
+      "rxcui": "6135",
+      "matched_name": "ketoconazole",
+      "score": "12.195025444030762"
+    },
+    "Klonopin": {
+      "rxcui": "202585",
+      "matched_name": "Klonopin",
+      "score": "13.555477142333984"
+    },
+    "Lactobac #3/FOS/Pantethine": {
+      "rxcui": "32863",
+      "matched_name": "pantethine",
+      "score": "11.804282188415527"
+    },
+    "Lamictal": {
+      "rxcui": "196502",
+      "matched_name": "Lamictal",
+      "score": "12.714125633239746"
+    },
+    "Lansoprazol": {
+      "rxcui": "17128",
+      "matched_name": "lansoprazole",
+      "score": "12.52198600769043"
+    },
+    "Lantus": {
+      "rxcui": "261551",
+      "matched_name": "Lantus",
+      "score": "14.178035736083984"
+    },
+    "Lantus (Insulin Glargine)": {
+      "rxcui": "362585",
+      "matched_name": "insulin glargine Injectable Solution [Lantus]",
+      "score": "19.58869171142578"
+    },
+    "Lasix": {
+      "rxcui": "202991",
+      "matched_name": "Lasix",
+      "score": "14.083183288574219"
+    },
+    "Latanoprost": {
+      "rxcui": "43611",
+      "matched_name": "latanoprost",
+      "score": "13.066312789916992"
+    },
+    "Latanoprost ophthalmic": {
+      "rxcui": "2056742",
+      "matched_name": "latanoprost Ophthalmic Suspension",
+      "score": "14.825889659404755"
+    },
+    "Levocetirizine": {
+      "rxcui": "356887",
+      "matched_name": "levocetirizine",
+      "score": "13.048612594604492"
+    },
+    "Levothyroxine": {
+      "rxcui": "10582",
+      "matched_name": "levothyroxine",
+      "score": "10.761137008666992"
+    },
+    "Levothyroxine Sodium": {
+      "rxcui": "40144",
+      "matched_name": "levothyroxine sodium",
+      "score": "12.465801239013672"
+    },
+    "Levothyroxine/Liothyronine": {
+      "rxcui": "465675",
+      "matched_name": "levothyroxine / liothyronine",
+      "score": "15.645528793334961"
+    },
+    "Levoxyl": {
+      "rxcui": "218002",
+      "matched_name": "Levoxyl",
+      "score": "13.434727668762207"
+    },
+    "Lexapro": {
+      "rxcui": "352741",
+      "matched_name": "Lexapro",
+      "score": "14.083183288574219"
+    },
+    "Linzess": {
+      "rxcui": "1307410",
+      "matched_name": "Linzess",
+      "score": "14.459686279296875"
+    },
+    "Liothyronine": {
+      "rxcui": "10814",
+      "matched_name": "liothyronine",
+      "score": "12.513765335083008"
+    },
+    "Lipitor": {
+      "rxcui": "153165",
+      "matched_name": "Lipitor",
+      "score": "14.034219741821289"
+    },
+    "Lisinopril": {
+      "rxcui": "29046",
+      "matched_name": "lisinopril",
+      "score": "11.919201850891113"
+    },
+    "Lisinopril and Hydrochlorothiazide": {
+      "rxcui": "214618",
+      "matched_name": "hydrochlorothiazide / lisinopril",
+      "score": "15.056468963623047"
+    },
+    "Lisinopril/HCL": {
+      "rxcui": "29046",
+      "matched_name": "lisinopril",
+      "score": "11.919201850891113"
+    },
+    "Lodine": {
+      "rxcui": "202998",
+      "matched_name": "Lodine",
+      "score": "13.914871215820312"
+    },
+    "Lomaira": {
+      "rxcui": "1810299",
+      "matched_name": "Lomaira",
+      "score": "14.895214080810547"
+    },
+    "Lomotil": {
+      "rxcui": "28874",
+      "matched_name": "Lomotil",
+      "score": "14.658487319946289"
+    },
+    "Loratadine": {
+      "rxcui": "28889",
+      "matched_name": "loratadine",
+      "score": "11.202264785766602"
+    },
+    "Loratadine Triamcinolone": {
+      "rxcui": "10759",
+      "matched_name": "triamcinolone",
+      "score": "11.418922424316406"
+    },
+    "Lorazepam": {
+      "rxcui": "6470",
+      "matched_name": "lorazepam",
+      "score": "12.292383193969727"
+    },
+    "Losartan HCTZ": {
+      "rxcui": "214619",
+      "matched_name": "hydrochlorothiazide / losartan",
+      "score": "15.406740188598633"
+    },
+    "Losartan HTC": {
+      "rxcui": "52175",
+      "matched_name": "losartan",
+      "score": "12.299378395080566"
+    },
+    "Losartan/HCTZ": {
+      "rxcui": "214619",
+      "matched_name": "hydrochlorothiazide / losartan",
+      "score": "15.406740188598633"
+    },
+    "Losartin/HCT": {
+      "rxcui": "214619",
+      "matched_name": "hydrochlorothiazide / losartan",
+      "score": "12.069076538085938"
+    },
+    "Lumigan": {
+      "rxcui": "284771",
+      "matched_name": "Lumigan",
+      "score": "14.658487319946289"
+    },
+    "Luthinamin - arava": {
+      "rxcui": "215393",
+      "matched_name": "Arava",
+      "score": "14.552087783813477"
+    },
+    "Lyrica": {
+      "rxcui": "593441",
+      "matched_name": "Lyrica",
+      "score": "13.281272888183594"
+    },
+    "Lyumjev": {
+      "rxcui": "2380232",
+      "matched_name": "Lyumjev",
+      "score": "13.945465087890625"
+    },
+    "Macrobid": {
+      "rxcui": "152001",
+      "matched_name": "Macrobid",
+      "score": "14.687807083129883"
+    },
+    "Magnesium": {
+      "rxcui": "6574",
+      "matched_name": "magnesium",
+      "score": "10.148687362670898"
+    },
+    "Magnesium oxide": {
+      "rxcui": "6582",
+      "matched_name": "magnesium oxide",
+      "score": "12.891779899597168"
+    },
+    "Maxalt": {
+      "rxcui": "218248",
+      "matched_name": "Maxalt",
+      "score": "14.207663536071777"
+    },
+    "Meclizine": {
+      "rxcui": "6676",
+      "matched_name": "meclizine",
+      "score": "11.77003288269043"
+    },
+    "Medihaler-Epi": {
+      "rxcui": "6687",
+      "matched_name": "Medihaler-Epi",
+      "score": "11.729966395282746"
+    },
+    "Medroxyprogesterone": {
+      "rxcui": "6691",
+      "matched_name": "medroxyprogesterone",
+      "score": "12.210787773132324"
+    },
+    "Meloxicam": {
+      "rxcui": "41493",
+      "matched_name": "meloxicam",
+      "score": "12.30644416809082"
+    },
+    "Metformin": {
+      "rxcui": "6809",
+      "matched_name": "metformin",
+      "score": "11.203743934631348"
+    },
+    "Metformin HCL": {
+      "rxcui": "235743",
+      "matched_name": "metformin hydrochloride",
+      "score": "12.386534690856934"
+    },
+    "Metformin HCL ER": {
+      "rxcui": "2645770",
+      "matched_name": "metformin hydrochloride Extended Release Suspension",
+      "score": "14.8171400471797"
+    },
+    "Methotrexate Sodium": {
+      "rxcui": "287734",
+      "matched_name": "methotrexate sodium",
+      "score": "13.701089859008789"
+    },
+    "Methylphenidate": {
+      "rxcui": "6901",
+      "matched_name": "methylphenidate",
+      "score": "11.67872428894043"
+    },
+    "Metoprolol": {
+      "rxcui": "6918",
+      "matched_name": "metoprolol",
+      "score": "11.806456565856934"
+    },
+    "Metroprolol ER": {
+      "rxcui": "1999027",
+      "matched_name": "metoprolol Extended Release Oral Capsule",
+      "score": "11.164836554625422"
+    },
+    "Midodrine": {
+      "rxcui": "6963",
+      "matched_name": "midodrine",
+      "score": "13.115814208984375"
+    },
+    "MiraLAX": {
+      "rxcui": "261575",
+      "matched_name": "Miralax",
+      "score": "14.603278160095215"
+    },
+    "Mirabegron": {
+      "rxcui": "1300786",
+      "matched_name": "mirabegron",
+      "score": "13.5986909866333"
+    },
+    "Miralax": {
+      "rxcui": "261575",
+      "matched_name": "Miralax",
+      "score": "14.603278160095215"
+    },
+    "Mirena": {
+      "rxcui": "152061",
+      "matched_name": "Mirena",
+      "score": "14.980598449707031"
+    },
+    "Mirtazapine": {
+      "rxcui": "15996",
+      "matched_name": "mirtazapine",
+      "score": "12.74940299987793"
+    },
+    "Mobic": {
+      "rxcui": "152699",
+      "matched_name": "Mobic",
+      "score": "14.35900592803955"
+    },
+    "Montrlukast Sodium": {
+      "rxcui": "115713",
+      "matched_name": "montelukast sodium",
+      "score": "10.067098617553711"
+    },
+    "Motrin": {
+      "rxcui": "202488",
+      "matched_name": "Motrin",
+      "score": "13.18303108215332"
+    },
+    "Mounjaro": {
+      "rxcui": "2601734",
+      "matched_name": "Mounjaro",
+      "score": "13.476278305053711"
+    },
+    "Mounjaro: Uses, Dosage, Side Effects \u0026 Warnings": {
+      "rxcui": "2601734",
+      "matched_name": "Mounjaro",
+      "score": "13.476278305053711"
+    },
+    "Myrbetriq": {
+      "rxcui": "1300792",
+      "matched_name": "Myrbetriq",
+      "score": "14.238594055175781"
+    },
+    "Nadolol": {
+      "rxcui": "7226",
+      "matched_name": "nadolol",
+      "score": "13.028509140014648"
+    },
+    "Naltrexone": {
+      "rxcui": "7243",
+      "matched_name": "naltrexone",
+      "score": "12.488348960876465"
+    },
+    "Naproxen": {
+      "rxcui": "7258",
+      "matched_name": "naproxen",
+      "score": "11.579986572265625"
+    },
+    "Neurontin": {
+      "rxcui": "196498",
+      "matched_name": "Neurontin",
+      "score": "10.317755699157715"
+    },
+    "Neurotin": {
+      "rxcui": "196498",
+      "matched_name": "Neurontin",
+      "score": "10.317755699157715"
+    },
+    "New Zealand flax seed oil": {
+      "rxcui": "2001129",
+      "matched_name": "New Zealand flax seed oil",
+      "score": "12.02206930411972"
+    },
+    "Nexium": {
+      "rxcui": "284799",
+      "matched_name": "Nexium",
+      "score": "13.358335494995117"
+    },
+    "Niacin": {
+      "rxcui": "7393",
+      "matched_name": "niacin",
+      "score": "10.993949890136719"
+    },
+    "Nifedipine": {
+      "rxcui": "7417",
+      "matched_name": "nifedipine",
+      "score": "12.010937690734863"
+    },
+    "Nizoral": {
+      "rxcui": "202692",
+      "matched_name": "Nizoral",
+      "score": "13.924921989440918"
+    },
+    "Norco": {
+      "rxcui": "218772",
+      "matched_name": "Norco",
+      "score": "14.135808944702148"
+    },
+    "Nortriptyline": {
+      "rxcui": "7531",
+      "matched_name": "nortriptyline",
+      "score": "12.728764533996582"
+    },
+    "Norvasc": {
+      "rxcui": "58927",
+      "matched_name": "Norvasc",
+      "score": "14.163677215576172"
+    },
+    "NovoLog": {
+      "rxcui": "284810",
+      "matched_name": "NovoLog",
+      "score": "13.306034088134766"
+    },
+    "Novolog": {
+      "rxcui": "284810",
+      "matched_name": "NovoLog",
+      "score": "13.306034088134766"
+    },
+    "Nurtec": {
+      "rxcui": "2282314",
+      "matched_name": "Nurtec",
+      "score": "14.936612129211426"
+    },
+    "Olanzapine": {
+      "rxcui": "61381",
+      "matched_name": "olanzapine",
+      "score": "12.101890563964844"
+    },
+    "Olmesartan": {
+      "rxcui": "321064",
+      "matched_name": "olmesartan",
+      "score": "12.189849853515625"
+    },
+    "Omeprazol": {
+      "rxcui": "7646",
+      "matched_name": "omeprazole",
+      "score": "11.923898696899414"
+    },
+    "Omeprazole": {
+      "rxcui": "7646",
+      "matched_name": "omeprazole",
+      "score": "11.923898696899414"
+    },
+    "Ondansetron ODT": {
+      "rxcui": "26225",
+      "matched_name": "ondansetron",
+      "score": "12.197628021240234"
+    },
+    "Orenitram": {
+      "rxcui": "1485753",
+      "matched_name": "Orenitram",
+      "score": "13.787429809570312"
+    },
+    "Oxybutynin": {
+      "rxcui": "32675",
+      "matched_name": "oxybutynin",
+      "score": "12.458761215209961"
+    },
+    "Oxybutynin (oral route)": {
+      "rxcui": "32675",
+      "matched_name": "oxybutynin",
+      "score": "12.458761215209961"
+    },
+    "Oxycodone HCL": {
+      "rxcui": "82063",
+      "matched_name": "oxycodone hydrochloride",
+      "score": "12.449555397033691"
+    },
+    "Ozempic": {
+      "rxcui": "1991307",
+      "matched_name": "Ozempic",
+      "score": "14.046144485473633"
+    },
+    "PAMELOR": {
+      "rxcui": "7866",
+      "matched_name": "Pamelor",
+      "score": "14.083183288574219"
+    },
+    "Pamelor": {
+      "rxcui": "7866",
+      "matched_name": "Pamelor",
+      "score": "14.083183288574219"
+    },
+    "Pantoprazole (oral route)": {
+      "rxcui": "40790",
+      "matched_name": "pantoprazole",
+      "score": "12.560216903686523"
+    },
+    "Pantoprazole E": {
+      "rxcui": "40790",
+      "matched_name": "pantoprazole",
+      "score": "12.560216903686523"
+    },
+    "Paxil": {
+      "rxcui": "114228",
+      "matched_name": "Paxil",
+      "score": "13.514762878417969"
+    },
+    "Pep-Back": {
+      "rxcui": "747238",
+      "matched_name": "Pep-Back",
+      "score": "11.85419120788574"
+    },
+    "Pepcid": {
+      "rxcui": "196458",
+      "matched_name": "Pepcid",
+      "score": "13.498011589050293"
+    },
+    "Peptide": {
+      "rxcui": "2644766",
+      "matched_name": "peptide-T",
+      "score": "10.906929561755636"
+    },
+    "Placebo/Atorvastatin": {
+      "rxcui": "8375",
+      "matched_name": "placebo",
+      "score": "12.95085334777832"
+    },
+    "Plaquenil": {
+      "rxcui": "202462",
+      "matched_name": "Plaquenil",
+      "score": "14.630341529846191"
+    },
+    "Plavix": {
+      "rxcui": "174742",
+      "matched_name": "Plavix",
+      "score": "14.527825355529785"
+    },
+    "Posaconazole": {
+      "rxcui": "282446",
+      "matched_name": "posaconazole",
+      "score": "13.245692253112793"
+    },
+    "Potassium": {
+      "rxcui": "8588",
+      "matched_name": "potassium",
+      "score": "10.188580513000488"
+    },
+    "Potassium Chloride": {
+      "rxcui": "8591",
+      "matched_name": "potassium chloride",
+      "score": "12.50566577911377"
+    },
+    "Potassium Cl ER": {
+      "rxcui": "373520",
+      "matched_name": "potassium chloride Extended Release Oral Capsule",
+      "score": "14.448034727631498"
+    },
+    "Praluent": {
+      "rxcui": "1659157",
+      "matched_name": "Praluent",
+      "score": "14.083183288574219"
+    },
+    "Pramixole dihydrochloride": {
+      "rxcui": "236747",
+      "matched_name": "pramipexole dihydrochloride",
+      "score": "12.384560585021973"
+    },
+    "Pravachol": {
+      "rxcui": "203333",
+      "matched_name": "Pravachol",
+      "score": "14.30486011505127"
+    },
+    "Pravastatin": {
+      "rxcui": "42463",
+      "matched_name": "pravastatin",
+      "score": "12.563133239746094"
+    },
+    "Prazosin HCl": {
+      "rxcui": "203210",
+      "matched_name": "prazosin hydrochloride",
+      "score": "13.835647583007812"
+    },
+    "PrednisoLONE": {
+      "rxcui": "8638",
+      "matched_name": "prednisolone",
+      "score": "11.40695571899414"
+    },
+    "Prednisolone Acetate Suspension": {
+      "rxcui": "2645921",
+      "matched_name": "prednisolone acetate Ophthalmic Suspension",
+      "score": "15.13410797071457"
+    },
+    "Prednisone": {
+      "rxcui": "8640",
+      "matched_name": "prednisone",
+      "score": "12.010937690734863"
+    },
+    "Pregnenolone": {
+      "rxcui": "114052",
+      "matched_name": "pregnenolone",
+      "score": "14.340490341186523"
+    },
+    "Premarin": {
+      "rxcui": "202896",
+      "matched_name": "Premarin",
+      "score": "13.543601989746094"
+    },
+    "Premarine": {
+      "rxcui": "202896",
+      "matched_name": "Premarin",
+      "score": "13.543601989746094"
+    },
+    "PreserVision": {
+      "rxcui": "829647",
+      "matched_name": "PreserVision",
+      "score": "13.924921989440918"
+    },
+    "Preservision A-REDS": {
+      "rxcui": "829647",
+      "matched_name": "PreserVision",
+      "score": "13.924921989440918"
+    },
+    "Prevacid": {
+      "rxcui": "83156",
+      "matched_name": "Prevacid",
+      "score": "13.651564598083496"
+    },
+    "Preventive Treatment of Migraine | AJOVY®": {
+      "rxcui": "2056696",
+      "matched_name": "Ajovy",
+      "score": "14.459686279296875"
+    },
+    "Prezista": {
+      "rxcui": "643075",
+      "matched_name": "Prezista",
+      "score": "13.914871215820312"
+    },
+    "Prilosec": {
+      "rxcui": "203345",
+      "matched_name": "Prilosec",
+      "score": "13.754889488220215"
+    },
+    "Pristiq": {
+      "rxcui": "711372",
+      "matched_name": "Pristiq",
+      "score": "14.207663536071777"
+    },
+    "Probiotic": {
+      "rxcui": "1301664",
+      "matched_name": "Rezyst Probiotic",
+      "score": "10.527137743949892"
+    },
+    "Probiotics": {
+      "rxcui": "1301664",
+      "matched_name": "Rezyst Probiotic",
+      "score": "10.527137743949892"
+    },
+    "Prolia": {
+      "rxcui": "993453",
+      "matched_name": "Prolia",
+      "score": "14.895214080810547"
+    },
+    "Prolia Injectable Product": {
+      "rxcui": "1181276",
+      "matched_name": "Prolia Injectable Product",
+      "score": "15.226220209121704"
+    },
+    "Prolia injection": {
+      "rxcui": "1181276",
+      "matched_name": "Prolia Injectable Product",
+      "score": "15.226220209121704"
+    },
+    "Prometrium": {
+      "rxcui": "262140",
+      "matched_name": "Prometrium",
+      "score": "14.577217102050781"
+    },
+    "Proscar": {
+      "rxcui": "196476",
+      "matched_name": "Proscar",
+      "score": "14.980598449707031"
+    },
+    "Protonix": {
+      "rxcui": "261624",
+      "matched_name": "Protonix",
+      "score": "13.955965995788574"
+    },
+    "Provigil": {
+      "rxcui": "219484",
+      "matched_name": "Provigil",
+      "score": "14.552087783813477"
+    },
+    "Prozac": {
+      "rxcui": "58827",
+      "matched_name": "Prozac",
+      "score": "13.605087280273438"
+    },
+    "Pyridium": {
+      "rxcui": "8998",
+      "matched_name": "Pyridium",
+      "score": "14.340490341186523"
+    },
+    "Pyridostigmine Bromide": {
+      "rxcui": "9001",
+      "matched_name": "pyridostigmine bromide",
+      "score": "16.74861717224121"
+    },
+    "Qsymia": {
+      "rxcui": "1372703",
+      "matched_name": "Qsymia",
+      "score": "14.135808944702148"
+    },
+    "Raloxifene": {
+      "rxcui": "72143",
+      "matched_name": "raloxifene",
+      "score": "13.746984481811523"
+    },
+    "Rasuvo": {
+      "rxcui": "1544379",
+      "matched_name": "Rasuvo",
+      "score": "13.686750411987305"
+    },
+    "Reclast": {
+      "rxcui": "705872",
+      "matched_name": "Reclast",
+      "score": "14.718400955200195"
+    },
+    "Red yeast rice": {
+      "rxcui": "232540",
+      "matched_name": "red yeast rice",
+      "score": "20.561992645263672"
+    },
+    "Remeron": {
+      "rxcui": "134774",
+      "matched_name": "Remeron",
+      "score": "14.05827522277832"
+    },
+    "Remicade": {
+      "rxcui": "219610",
+      "matched_name": "Remicade",
+      "score": "14.936612129211426"
+    },
+    "Repatha": {
+      "rxcui": "1665896",
+      "matched_name": "Repatha",
+      "score": "14.135808944702148"
+    },
+    "Repatha Sure": {
+      "rxcui": "1665896",
+      "matched_name": "Repatha",
+      "score": "14.135808944702148"
+    },
+    "Restasis": {
+      "rxcui": "352951",
+      "matched_name": "Restasis",
+      "score": "14.481673240661621"
+    },
+    "Rezdiffra": {
+      "rxcui": "2677900",
+      "matched_name": "Rezdiffra",
+      "score": "14.527825355529785"
+    },
+    "Rezyst Probiotic": {
+      "rxcui": "1301664",
+      "matched_name": "Rezyst Probiotic",
+      "score": "10.527137743949892"
+    },
+    "Rilpivirine": {
+      "rxcui": "1102270",
+      "matched_name": "rilpivirine",
+      "score": "13.119027137756348"
+    },
+    "Ritalin": {
+      "rxcui": "224917",
+      "matched_name": "Ritalin",
+      "score": "13.637969017028809"
+    },
+    "Rituxan": {
+      "rxcui": "226754",
+      "matched_name": "Rituxan",
+      "score": "14.070618629455566"
+    },
+    "Rizatriptan": {
+      "rxcui": "88014",
+      "matched_name": "rizatriptan",
+      "score": "12.918642044067383"
+    },
+    "Robaxin": {
+      "rxcui": "202955",
+      "matched_name": "Robaxin",
+      "score": "14.2229585647583"
+    },
+    "Roflumilast": {
+      "rxcui": "1091836",
+      "matched_name": "roflumilast",
+      "score": "13.439788818359375"
+    },
+    "Ropinirole": {
+      "rxcui": "72302",
+      "matched_name": "ropinirole",
+      "score": "12.447514533996582"
+    },
+    "Ropinirole HCL": {
+      "rxcui": "236553",
+      "matched_name": "ropinirole hydrochloride",
+      "score": "13.532468795776367"
+    },
+    "Rosuvastatin": {
+      "rxcui": "301542",
+      "matched_name": "rosuvastatin",
+      "score": "12.354730606079102"
+    },
+    "Rozerem": {
+      "rxcui": "603159",
+      "matched_name": "Rozerem",
+      "score": "14.936612129211426"
+    },
+    "Rutin": {
+      "rxcui": "9500",
+      "matched_name": "rutin",
+      "score": "12.772631645202637"
+    },
+    "Rybelsus": {
+      "rxcui": "2200645",
+      "matched_name": "Rybelsus",
+      "score": "14.149604797363281"
+    },
+    "SODIUM SULFACETAMIDE-SULFUR": {
+      "rxcui": "690740",
+      "matched_name": "sulfacetamide / sulfur",
+      "score": "23.33826446533203"
+    },
+    "Saccharomyces boulardii": {
+      "rxcui": "236782",
+      "matched_name": "Saccharomyces boulardii",
+      "score": "100"
+    },
+    "Saligin": {
+      "rxcui": "36100",
+      "matched_name": "salicin",
+      "score": "10.18828296661377"
+    },
+    "Selenium": {
+      "rxcui": "9641",
+      "matched_name": "selenium",
+      "score": "11.360235214233398"
+    },
+    "Selenium sulfide shampoo": {
+      "rxcui": "377509",
+      "matched_name": "selenium sulfide Medicated Shampoo",
+      "score": "17.5769653301239"
+    },
+    "Sertraline": {
+      "rxcui": "36437",
+      "matched_name": "sertraline",
+      "score": "12.528910636901855"
+    },
+    "Sertraline Hydrochloride": {
+      "rxcui": "155137",
+      "matched_name": "sertraline hydrochloride",
+      "score": "13.607461929321289"
+    },
+    "Sildenafil Citrate": {
+      "rxcui": "221161",
+      "matched_name": "sildenafil citrate",
+      "score": "15.437508583068848"
+    },
+    "Simbrinza": {
+      "rxcui": "1421452",
+      "matched_name": "Simbrinza",
+      "score": "14.980598449707031"
+    },
+    "Simvastatin": {
+      "rxcui": "36567",
+      "matched_name": "simvastatin",
+      "score": "12.107220649719238"
+    },
+    "Singulair": {
+      "rxcui": "153889",
+      "matched_name": "Singulair",
+      "score": "14.05827522277832"
+    },
+    "Slow Fe Slow Release Iron, 60 Tablets (Pack of 2 ": {
+      "rxcui": "152364",
+      "matched_name": "Slow-Fe",
+      "score": "21.37346649169922"
+    },
+    "Slow-Fe": {
+      "rxcui": "152364",
+      "matched_name": "Slow-Fe",
+      "score": "21.37346649169922"
+    },
+    "Spiriva": {
+      "rxcui": "274535",
+      "matched_name": "Spiriva",
+      "score": "13.762884140014648"
+    },
+    "Spiriva Respimat": {
+      "rxcui": "274535",
+      "matched_name": "Spiriva",
+      "score": "13.762884140014648"
+    },
+    "Spironolactone": {
+      "rxcui": "9997",
+      "matched_name": "spironolactone",
+      "score": "12.331223487854004"
+    },
+    "Spirulina": {
+      "rxcui": "487252",
+      "matched_name": "Spirulina",
+      "score": "13.904961585998535"
+    },
+    "Spirulina Extract": {
+      "rxcui": "487252",
+      "matched_name": "Spirulina",
+      "score": "13.904961585998535"
+    },
+    "Spravato": {
+      "rxcui": "2119382",
+      "matched_name": "Spravato",
+      "score": "14.527825355529785"
+    },
+    "Suboxone": {
+      "rxcui": "352990",
+      "matched_name": "Suboxone",
+      "score": "13.966626167297363"
+    },
+    "Sudafed": {
+      "rxcui": "203302",
+      "matched_name": "Sudafed",
+      "score": "12.780548095703125"
+    },
+    "Sumatriptan Succ": {
+      "rxcui": "67158",
+      "matched_name": "sumatriptan succinate",
+      "score": "15.438167572021484"
+    },
+    "Synthroid": {
+      "rxcui": "224920",
+      "matched_name": "Synthroid",
+      "score": "13.063331604003906"
+    },
+    "Synthroid - lavathyroxine": {
+      "rxcui": "224920",
+      "matched_name": "Synthroid",
+      "score": "13.063331604003906"
+    },
+    "Tadalafil": {
+      "rxcui": "358263",
+      "matched_name": "tadalafil",
+      "score": "12.454992294311523"
+    },
+    "Tagrisso": {
+      "rxcui": "1721566",
+      "matched_name": "Tagrisso",
+      "score": "14.687807083129883"
+    },
+    "Tamoxifen": {
+      "rxcui": "10324",
+      "matched_name": "tamoxifen",
+      "score": "13.18303108215332"
+    },
+    "Tamsulosin": {
+      "rxcui": "77492",
+      "matched_name": "tamsulosin",
+      "score": "13.081411361694336"
+    },
+    "Tamsulosin HCl": {
+      "rxcui": "236495",
+      "matched_name": "tamsulosin hydrochloride",
+      "score": "14.11650276184082"
+    },
+    "Temazepam": {
+      "rxcui": "10355",
+      "matched_name": "temazepam",
+      "score": "12.968827247619629"
+    },
+    "Terazosin": {
+      "rxcui": "37798",
+      "matched_name": "terazosin",
+      "score": "12.772631645202637"
+    },
+    "Terbinafine": {
+      "rxcui": "37801",
+      "matched_name": "terbinafine",
+      "score": "12.566061973571777"
+    },
+    "Terbinafine HCl": {
+      "rxcui": "235838",
+      "matched_name": "terbinafine hydrochloride",
+      "score": "13.641691207885742"
+    },
+    "Testosterone": {
+      "rxcui": "10379",
+      "matched_name": "testosterone",
+      "score": "11.702396392822266"
+    },
+    "Tirzepatide": {
+      "rxcui": "2601723",
+      "matched_name": "tirzepatide",
+      "score": "12.608393669128418"
+    },
+    "Tizanidine": {
+      "rxcui": "57258",
+      "matched_name": "tizanidine",
+      "score": "12.63055419921875"
+    },
+    "Tobradex": {
+      "rxcui": "220330",
+      "matched_name": "Tobradex",
+      "score": "14.149604797363281"
+    },
+    "Topicort": {
+      "rxcui": "220345",
+      "matched_name": "Topicort",
+      "score": "13.977450370788574"
+    },
+    "Topiramate (topamax)": {
+      "rxcui": "367661",
+      "matched_name": "topiramate Oral Tablet [Topamax]",
+      "score": "16.51771319293976"
+    },
+    "Toujeo": {
+      "rxcui": "1604540",
+      "matched_name": "Toujeo",
+      "score": "14.459686279296875"
+    },
+    "Tradjenta": {
+      "rxcui": "1100703",
+      "matched_name": "Tradjenta",
+      "score": "14.936612129211426"
+    },
+    "Tramadol": {
+      "rxcui": "10689",
+      "matched_name": "tramadol",
+      "score": "12.002984046936035"
+    },
+    "Tramadole": {
+      "rxcui": "10689",
+      "matched_name": "tramadol",
+      "score": "12.002984046936035"
+    },
+    "Travoprost": {
+      "rxcui": "283809",
+      "matched_name": "travoprost",
+      "score": "13.624631881713867"
+    },
+    "Trazodone": {
+      "rxcui": "10737",
+      "matched_name": "trazodone",
+      "score": "12.513765335083008"
+    },
+    "Trazodone HCL": {
+      "rxcui": "82112",
+      "matched_name": "trazodone hydrochloride",
+      "score": "13.593507766723633"
+    },
+    "Trelegy": {
+      "rxcui": "1945040",
+      "matched_name": "Trelegy",
+      "score": "14.2229585647583"
+    },
+    "Trelegy Ellipta": {
+      "rxcui": "1945040",
+      "matched_name": "Trelegy",
+      "score": "14.2229585647583"
+    },
+    "Tresiba": {
+      "rxcui": "1670012",
+      "matched_name": "Tresiba",
+      "score": "14.30486011505127"
+    },
+    "Tretinoin": {
+      "rxcui": "10753",
+      "matched_name": "tretinoin",
+      "score": "11.938779830932617"
+    },
+    "Triamcinolone": {
+      "rxcui": "10759",
+      "matched_name": "triamcinolone",
+      "score": "11.418922424316406"
+    },
+    "Triamcinolone Ointment": {
+      "rxcui": "376587",
+      "matched_name": "triamcinolone Ophthalmic Ointment",
+      "score": "13.407288744926454"
+    },
+    "Triamterene HCTZ": {
+      "rxcui": "258337",
+      "matched_name": "hydrochlorothiazide / triamterene",
+      "score": "15.667488098144531"
+    },
+    "Triamterene/Hydrochlorothiazide": {
+      "rxcui": "258337",
+      "matched_name": "hydrochlorothiazide / triamterene",
+      "score": "15.667488098144531"
+    },
+    "Trintellix": {
+      "rxcui": "1790881",
+      "matched_name": "Trintellix",
+      "score": "14.340490341186523"
+    },
+    "Triple Action joint Health: Type ll collagen": {
+      "rxcui": "1426856",
+      "matched_name": "collagen type I",
+      "score": "14.98710823059082"
+    },
+    "Trospium": {
+      "rxcui": "236778",
+      "matched_name": "trospium",
+      "score": "13.125496864318848"
+    },
+    "Trulicity": {
+      "rxcui": "1551296",
+      "matched_name": "Trulicity",
+      "score": "14.034219741821289"
+    },
+    "Tumeric Curcumin": {
+      "rxcui": "2955",
+      "matched_name": "curcumin",
+      "score": "13.821548461914062"
+    },
+    "Tums Chewable Tablets (Calcium Carbonate)": {
+      "rxcui": "369632",
+      "matched_name": "calcium carbonate Chewable Tablet [Tums]",
+      "score": "19.498003005981445"
+    },
+    "Turmeric": {
+      "rxcui": "1373037",
+      "matched_name": "turmeric oil",
+      "score": "12.175658469200135"
+    },
+    "Tylenol": {
+      "rxcui": "202433",
+      "matched_name": "Tylenol",
+      "score": "12.05423641204834"
+    },
+    "Ubrelvie": {
+      "rxcui": "2268222",
+      "matched_name": "Ubrelvy",
+      "score": "14.750386238098145"
+    },
+    "Ubrelvy": {
+      "rxcui": "2268222",
+      "matched_name": "Ubrelvy",
+      "score": "14.750386238098145"
+    },
+    "Ultram": {
+      "rxcui": "220606",
+      "matched_name": "Ultram",
+      "score": "13.787429809570312"
+    },
+    "Unithroid": {
+      "rxcui": "284910",
+      "matched_name": "Unithroid",
+      "score": "13.4448881149292"
+    },
+    "Vabysmo": {
+      "rxcui": "2591590",
+      "matched_name": "Vabysmo",
+      "score": "14.459686279296875"
+    },
+    "Valacyclovir": {
+      "rxcui": "73645",
+      "matched_name": "valacyclovir",
+      "score": "12.968827247619629"
+    },
+    "Valacyclovir hcl": {
+      "rxcui": "236081",
+      "matched_name": "valacyclovir hydrochloride",
+      "score": "14.012773513793945"
+    },
+    "Valium": {
+      "rxcui": "202472",
+      "matched_name": "Valium",
+      "score": "13.848268508911133"
+    },
+    "Valsartain HCT": {
+      "rxcui": "214626",
+      "matched_name": "hydrochlorothiazide / valsartan",
+      "score": "11.413545608520508"
+    },
+    "Valsartan": {
+      "rxcui": "69749",
+      "matched_name": "valsartan",
+      "score": "11.886618614196777"
+    },
+    "Valsartan/HCT": {
+      "rxcui": "214626",
+      "matched_name": "hydrochlorothiazide / valsartan",
+      "score": "15.026448249816895"
+    },
+    "Valtaren Gel": {
+      "rxcui": "752882",
+      "matched_name": "diclofenac Topical Gel [Voltaren]",
+      "score": "10.645932839393616"
+    },
+    "Valtrex": {
+      "rxcui": "152490",
+      "matched_name": "Valtrex",
+      "score": "14.340490341186523"
+    },
+    "Vascepa": {
+      "rxcui": "1304980",
+      "matched_name": "Vascepa",
+      "score": "14.630341529846191"
+    },
+    "Vascepa cosequent": {
+      "rxcui": "1304980",
+      "matched_name": "Vascepa",
+      "score": "14.630341529846191"
+    },
+    "Venlafaxine": {
+      "rxcui": "39786",
+      "matched_name": "venlafaxine",
+      "score": "12.197628021240234"
+    },
+    "Ventolin": {
+      "rxcui": "8887",
+      "matched_name": "Ventolin",
+      "score": "13.419757843017578"
+    },
+    "Ventolin Inhalant Product": {
+      "rxcui": "1187868",
+      "matched_name": "Ventolin Inhalant Product",
+      "score": "11.677249618053438"
+    },
+    "Ventolin inhaler": {
+      "rxcui": "1187868",
+      "matched_name": "Ventolin Inhalant Product",
+      "score": "15.423819952964784"
+    },
+    "Veozah": {
+      "rxcui": "2637142",
+      "matched_name": "Veozah",
+      "score": "14.980598449707031"
+    },
+    "Verapamil": {
+      "rxcui": "11170",
+      "matched_name": "verapamil",
+      "score": "12.067834854125977"
+    },
+    "Vesicare": {
+      "rxcui": "539812",
+      "matched_name": "Vesicare",
+      "score": "14.340490341186523"
+    },
+    "Viagra": {
+      "rxcui": "190465",
+      "matched_name": "Viagra",
+      "score": "14.149604797363281"
+    },
+    "Victoza": {
+      "rxcui": "897123",
+      "matched_name": "Victoza",
+      "score": "14.718400955200195"
+    },
+    "Vistaril": {
+      "rxcui": "282519",
+      "matched_name": "Vistaril",
+      "score": "13.876044273376465"
+    },
+    "Vit B12": {
+      "rxcui": "11248",
+      "matched_name": "vitamin B12",
+      "score": "11.451719284057617"
+    },
+    "Vit D": {
+      "rxcui": "11253",
+      "matched_name": "vitamin D",
+      "score": "12.710739135742188"
+    },
+    "Vit D3": {
+      "rxcui": "1244014",
+      "matched_name": "vitamin D3",
+      "score": "11.60951042175293"
+    },
+    "Vit-D": {
+      "rxcui": "11253",
+      "matched_name": "vitamin D",
+      "score": "18.525299072265625"
+    },
+    "Vitamin A": {
+      "rxcui": "11246",
+      "matched_name": "vitamin A",
+      "score": "12.490253448486328"
+    },
+    "Vitamin B complex": {
+      "rxcui": "11251",
+      "matched_name": "vitamin B complex",
+      "score": "15.602980613708496"
+    },
+    "Vitamin B12 Injection": {
+      "rxcui": "371649",
+      "matched_name": "vitamin B12 Injectable Solution",
+      "score": "11.957566885948182"
+    },
+    "Vitamin D": {
+      "rxcui": "11253",
+      "matched_name": "vitamin D",
+      "score": "12.710739135742188"
+    },
+    "Vitamin D 2": {
+      "rxcui": "11253",
+      "matched_name": "vitamin D",
+      "score": "10.710739135742188"
+    },
+    "Vitamin D3": {
+      "rxcui": "1244014",
+      "matched_name": "vitamin D3",
+      "score": "11.60951042175293"
+    },
+    "Vyepti": {
+      "rxcui": "2283050",
+      "matched_name": "Vyepti",
+      "score": "14.936612129211426"
+    },
+    "Vyvanse": {
+      "rxcui": "711043",
+      "matched_name": "Vyvanse",
+      "score": "13.592351913452148"
+    },
+    "Wal-Act": {
+      "rxcui": "1014651",
+      "matched_name": "Wal-Act",
+      "score": "11.579833761850994"
+    },
+    "Warfarin": {
+      "rxcui": "11289",
+      "matched_name": "warfarin",
+      "score": "11.968892097473145"
+    },
+    "Water pill": {
+      "rxcui": "11295",
+      "matched_name": "water",
+      "score": "11.200576782226562"
+    },
+    "Wegovy": {
+      "rxcui": "2553502",
+      "matched_name": "Wegovy",
+      "score": "14.01095962524414"
+    },
+    "WelChol": {
+      "rxcui": "284918",
+      "matched_name": "Welchol",
+      "score": "14.135808944702148"
+    },
+    "Welchol": {
+      "rxcui": "284918",
+      "matched_name": "Welchol",
+      "score": "14.135808944702148"
+    },
+    "Wellbutrin": {
+      "rxcui": "42568",
+      "matched_name": "Wellbutrin",
+      "score": "13.549513816833496"
+    },
+    "Wellbutrin XL": {
+      "rxcui": "42568",
+      "matched_name": "Wellbutrin",
+      "score": "13.549513816833496"
+    },
+    "Wellbutrin**": {
+      "rxcui": "42568",
+      "matched_name": "Wellbutrin",
+      "score": "13.549513816833496"
+    },
+    "XARELTO®": {
+      "rxcui": "1114199",
+      "matched_name": "Xarelto",
+      "score": "13.945465087890625"
+    },
+    "Xanax": {
+      "rxcui": "202363",
+      "matched_name": "Xanax",
+      "score": "13.611541748046875"
+    },
+    "Xarelto": {
+      "rxcui": "1114199",
+      "matched_name": "Xarelto",
+      "score": "13.945465087890625"
+    },
+    "Xeljanz": {
+      "rxcui": "1357542",
+      "matched_name": "Xeljanz",
+      "score": "14.022493362426758"
+    },
+    "Xyzal": {
+      "rxcui": "398335",
+      "matched_name": "Xyzal",
+      "score": "14.238594055175781"
+    },
+    "Zepbound": {
+      "rxcui": "2669702",
+      "matched_name": "Zepbound",
+      "score": "13.470948219299316"
+    },
+    "Zetia": {
+      "rxcui": "353099",
+      "matched_name": "Zetia",
+      "score": "14.936612129211426"
+    },
+    "Zinc Pills": {
+      "rxcui": "1163039",
+      "matched_name": "zinc oxide Pill",
+      "score": "11.041329067039491"
+    },
+    "Zinc and magnesium": {
+      "rxcui": "1007451",
+      "matched_name": "magnesium oxide / zinc oxide",
+      "score": "11.664427789052327"
+    },
+    "Zofran": {
+      "rxcui": "66981",
+      "matched_name": "Zofran",
+      "score": "13.821548461914062"
+    },
+    "Zoloft": {
+      "rxcui": "82728",
+      "matched_name": "Zoloft",
+      "score": "14.095974922180176"
+    },
+    "Zonisamide": {
+      "rxcui": "39998",
+      "matched_name": "zonisamide",
+      "score": "13.269211769104004"
+    },
+    "Zyrtec": {
+      "rxcui": "58930",
+      "matched_name": "Zyrtec",
+      "score": "13.075333595275879"
+    },
+    "acarbose": {
+      "rxcui": "16681",
+      "matched_name": "acarbose",
+      "score": "13.561490058898926"
+    },
+    "acetaminophen": {
+      "rxcui": "161",
+      "matched_name": "acetaminophen",
+      "score": "100"
+    },
+    "acetaminophen / butalbital / caffeine": {
+      "rxcui": "214130",
+      "matched_name": "acetaminophen / butalbital / caffeine",
+      "score": "16.498699188232422"
+    },
+    "acetaminophen / caffeine": {
+      "rxcui": "108038",
+      "matched_name": "acetaminophen / caffeine",
+      "score": "12.827075004577637"
+    },
+    "acetaminophen / hydrocodone": {
+      "rxcui": "214182",
+      "matched_name": "acetaminophen / hydrocodone",
+      "score": "11.200342178344727"
+    },
+    "acetaminophen / ibuprofen": {
+      "rxcui": "818102",
+      "matched_name": "acetaminophen / ibuprofen",
+      "score": "12.64629077911377"
+    },
+    "actonel": {
+      "rxcui": "753143",
+      "matched_name": "Actonel",
+      "score": "13.857405662536621"
+    },
+    "acyclovir": {
+      "rxcui": "281",
+      "matched_name": "acyclovir",
+      "score": "12.28742790222168"
+    },
+    "adalimumab": {
+      "rxcui": "327361",
+      "matched_name": "adalimumab",
+      "score": "100"
+    },
+    "adalimumab-ryvk": {
+      "rxcui": "2677776",
+      "matched_name": "adalimumab-ryvk",
+      "score": "28.345998764038086"
+    },
+    "adrenal cortex extract": {
+      "rxcui": "91413",
+      "matched_name": "adrenal cortex extract",
+      "score": "10.31677102558136"
+    },
+    "advair discus": {
+      "rxcui": "301543",
+      "matched_name": "Advair",
+      "score": "13.211824417114258"
+    },
+    "advair inhaler": {
+      "rxcui": "1171309",
+      "matched_name": "Advair Inhalant Product",
+      "score": "15.246303126811982"
+    },
+    "advil PM": {
+      "rxcui": "153010",
+      "matched_name": "Advil",
+      "score": "13.096840858459473"
+    },
+    "albuterol": {
+      "rxcui": "435",
+      "matched_name": "albuterol",
+      "score": "100"
+    },
+    "albuterol Inhalation Solution": {
+      "rxcui": "2108226",
+      "matched_name": "albuterol Inhalation Solution",
+      "score": "10.797990714073181"
+    },
+    "albuterol inhaler": {
+      "rxcui": "2108226",
+      "matched_name": "albuterol Inhalation Solution",
+      "score": "14.270887567520143"
+    },
+    "alendronate": {
+      "rxcui": "46041",
+      "matched_name": "alendronate",
+      "score": "100"
+    },
+    "alendronate sodium": {
+      "rxcui": "203152",
+      "matched_name": "alendronate sodium",
+      "score": "14.356386184692383"
+    },
+    "alfalfa oil": {
+      "rxcui": "323994",
+      "matched_name": "alfalfa oil",
+      "score": "12.710102951049805"
+    },
+    "alfuzosin": {
+      "rxcui": "17300",
+      "matched_name": "alfuzosin",
+      "score": "13.487060546875"
+    },
+    "alirocumab": {
+      "rxcui": "1659152",
+      "matched_name": "alirocumab",
+      "score": "100"
+    },
+    "allegra": {
+      "rxcui": "324026",
+      "matched_name": "Allegra",
+      "score": "13.306034088134766"
+    },
+    "allergy injection": {
+      "rxcui": "215845",
+      "matched_name": "Callergy",
+      "score": "10.244034767150879"
+    },
+    "allopurinol": {
+      "rxcui": "519",
+      "matched_name": "allopurinol",
+      "score": "12.648469924926758"
+    },
+    "alprazolam": {
+      "rxcui": "596",
+      "matched_name": "alprazolam",
+      "score": "100"
+    },
+    "ambrisentan": {
+      "rxcui": "358274",
+      "matched_name": "ambrisentan",
+      "score": "13.770971298217773"
+    },
+    "ametroprolar tartrate": {
+      "rxcui": "1314221",
+      "matched_name": "tartrate",
+      "score": "11.216341972351074"
+    },
+    "amitriptyline": {
+      "rxcui": "704",
+      "matched_name": "amitriptyline",
+      "score": "12.136085510253906"
+    },
+    "amlodipine": {
+      "rxcui": "17767",
+      "matched_name": "amlodipine",
+      "score": "100"
+    },
+    "amlodipine besylate": {
+      "rxcui": "104416",
+      "matched_name": "amlodipine besylate",
+      "score": "12.117987632751465"
+    },
+    "amoxicillin": {
+      "rxcui": "723",
+      "matched_name": "amoxicillin",
+      "score": "11.43844223022461"
+    },
+    "amphetamine / dextroamphetamine Extended Release Oral Capsule [Adderall]": {
+      "rxcui": "540479",
+      "matched_name": "amphetamine / dextroamphetamine Extended Release Oral Capsule [Adderall]",
+      "score": "10.935224690234945"
+    },
+    "anastrozole": {
+      "rxcui": "84857",
+      "matched_name": "anastrozole",
+      "score": "100"
+    },
+    "apixaban": {
+      "rxcui": "1364430",
+      "matched_name": "apixaban",
+      "score": "100"
+    },
+    "aripiprazole": {
+      "rxcui": "89013",
+      "matched_name": "aripiprazole",
+      "score": "100"
+    },
+    "ascorbic acid": {
+      "rxcui": "1151",
+      "matched_name": "ascorbic acid",
+      "score": "12.255156517028809"
+    },
+    "ascorbic acid Chewable Tablet [Sunkist Vitamin C]": {
+      "rxcui": "369676",
+      "matched_name": "ascorbic acid Chewable Tablet [Sunkist Vitamin C]",
+      "score": "16.953804089927676"
+    },
+    "aspirin": {
+      "rxcui": "1191",
+      "matched_name": "aspirin",
+      "score": "10.353462219238281"
+    },
+    "atazanavir": {
+      "rxcui": "343047",
+      "matched_name": "atazanavir",
+      "score": "13.15536880493164"
+    },
+    "atenolol": {
+      "rxcui": "1202",
+      "matched_name": "atenolol",
+      "score": "12.37568473815918"
+    },
+    "atorvastatin": {
+      "rxcui": "83367",
+      "matched_name": "atorvastatin",
+      "score": "100"
+    },
+    "atorvastatin calcium": {
+      "rxcui": "83366",
+      "matched_name": "atorvastatin calcium",
+      "score": "11.360681533813477"
+    },
+    "atropine": {
+      "rxcui": "1223",
+      "matched_name": "atropine",
+      "score": "100"
+    },
+    "atrvastatin calcium": {
+      "rxcui": "83366",
+      "matched_name": "atorvastatin calcium",
+      "score": "11.360681533813477"
+    },
+    "azelastine": {
+      "rxcui": "18603",
+      "matched_name": "azelastine",
+      "score": "13.075333595275879"
+    },
+    "azelastine Nasal Spray": {
+      "rxcui": "636215",
+      "matched_name": "azelastine Nasal Spray",
+      "score": "17.383914947509766"
+    },
+    "baclofen": {
+      "rxcui": "1292",
+      "matched_name": "baclofen",
+      "score": "12.174545288085938"
+    },
+    "batamethasone cream": {
+      "rxcui": "377613",
+      "matched_name": "betamethasone Topical Cream",
+      "score": "10.939794090270997"
+    },
+    "benazepril": {
+      "rxcui": "18867",
+      "matched_name": "benazepril",
+      "score": "100"
+    },
+    "benazepril hydrochloride": {
+      "rxcui": "235758",
+      "matched_name": "benazepril hydrochloride",
+      "score": "13.315996170043945"
+    },
+    "betamethasone": {
+      "rxcui": "1514",
+      "matched_name": "betamethasone",
+      "score": "100"
+    },
+    "betamethasone Topical Cream": {
+      "rxcui": "377613",
+      "matched_name": "betamethasone Topical Cream",
+      "score": "10.939794090270997"
+    },
+    "betamethasone dipropionate": {
+      "rxcui": "19254",
+      "matched_name": "betamethasone dipropionate",
+      "score": "11.033624649047852"
+    },
+    "betamethasone valerate": {
+      "rxcui": "227897",
+      "matched_name": "betamethasone valerate",
+      "score": "16.310848236083984"
+    },
+    "bimatoprost": {
+      "rxcui": "283810",
+      "matched_name": "bimatoprost",
+      "score": "100"
+    },
+    "biotin": {
+      "rxcui": "1588",
+      "matched_name": "biotin",
+      "score": "11.063909530639648"
+    },
+    "bisacodyl": {
+      "rxcui": "1596",
+      "matched_name": "bisacodyl",
+      "score": "100"
+    },
+    "bisoprolol": {
+      "rxcui": "19484",
+      "matched_name": "bisoprolol",
+      "score": "12.79869270324707"
+    },
+    "botox": {
+      "rxcui": "203279",
+      "matched_name": "Botox",
+      "score": "14.178035736083984"
+    },
+    "botulinum toxin type A": {
+      "rxcui": "1712",
+      "matched_name": "botulinum toxin type A",
+      "score": "100"
+    },
+    "breo ellipta 100": {
+      "rxcui": "1539891",
+      "matched_name": "Breo Ellipta Institutional Pack",
+      "score": "14.81191664223671"
+    },
+    "brimonidine": {
+      "rxcui": "134615",
+      "matched_name": "brimonidine",
+      "score": "100"
+    },
+    "brinzolamide": {
+      "rxcui": "194881",
+      "matched_name": "brinzolamide",
+      "score": "13.66542911529541"
+    },
+    "budesonide": {
+      "rxcui": "19831",
+      "matched_name": "budesonide",
+      "score": "12.263164520263672"
+    },
+    "bumetanide": {
+      "rxcui": "1808",
+      "matched_name": "bumetanide",
+      "score": "12.73807144165039"
+    },
+    "buprenorphine": {
+      "rxcui": "1819",
+      "matched_name": "buprenorphine",
+      "score": "100"
+    },
+    "bupropion": {
+      "rxcui": "42347",
+      "matched_name": "bupropion",
+      "score": "11.995771408081055"
+    },
+    "bupropion hydrochloride": {
+      "rxcui": "203204",
+      "matched_name": "bupropion hydrochloride",
+      "score": "13.116260528564453"
+    },
+    "buspar": {
+      "rxcui": "154990",
+      "matched_name": "Buspar",
+      "score": "14.109004020690918"
+    },
+    "buspirone": {
+      "rxcui": "1827",
+      "matched_name": "buspirone",
+      "score": "100"
+    },
+    "cabotegravir": {
+      "rxcui": "2475077",
+      "matched_name": "cabotegravir",
+      "score": "100"
+    },
+    "caffeine": {
+      "rxcui": "1886",
+      "matched_name": "caffeine",
+      "score": "100"
+    },
+    "calcitriol": {
+      "rxcui": "1894",
+      "matched_name": "calcitriol",
+      "score": "13.028509140014648"
+    },
+    "calcium carbonate": {
+      "rxcui": "1897",
+      "matched_name": "calcium carbonate",
+      "score": "100"
+    },
+    "calcium carbonate 1500 MG / vitamin D3 800 UNT Oral Tablet": {
+      "rxcui": "1310948",
+      "matched_name": "calcium carbonate 1500 MG / vitamin D3 800 UNT Oral Tablet",
+      "score": "12.708352971126535"
+    },
+    "calcium carbonate Chewable Tablet [Tums]": {
+      "rxcui": "369632",
+      "matched_name": "calcium carbonate Chewable Tablet [Tums]",
+      "score": "19.498003005981445"
+    },
+    "canagliflozin": {
+      "rxcui": "1373458",
+      "matched_name": "canagliflozin",
+      "score": "100"
+    },
+    "candesartan": {
+      "rxcui": "214354",
+      "matched_name": "candesartan",
+      "score": "12.90188980102539"
+    },
+    "carafate": {
+      "rxcui": "227743",
+      "matched_name": "Carafate",
+      "score": "14.527825355529785"
+    },
+    "carvedilol": {
+      "rxcui": "20352",
+      "matched_name": "carvedilol",
+      "score": "100"
+    },
+    "cefadroxil": {
+      "rxcui": "2177",
+      "matched_name": "cefadroxil",
+      "score": "12.966231346130371"
+    },
+    "celecoxib": {
+      "rxcui": "140587",
+      "matched_name": "celecoxib",
+      "score": "100"
+    },
+    "cetirizine": {
+      "rxcui": "20610",
+      "matched_name": "cetirizine",
+      "score": "100"
+    },
+    "cetirizine hydrochloride": {
+      "rxcui": "203150",
+      "matched_name": "cetirizine hydrochloride",
+      "score": "12.564458847045898"
+    },
+    "chlorpheniramine": {
+      "rxcui": "2400",
+      "matched_name": "chlorpheniramine",
+      "score": "10.380846977233887"
+    },
+    "chlorthalidone": {
+      "rxcui": "2409",
+      "matched_name": "chlorthalidone",
+      "score": "12.45124340057373"
+    },
+    "cholecalciferol": {
+      "rxcui": "2418",
+      "matched_name": "cholecalciferol",
+      "score": "10.863049507141113"
+    },
+    "cholesterol": {
+      "rxcui": "2438",
+      "matched_name": "cholesterol",
+      "score": "13.07836627960205"
+    },
+    "chondroitin sulfates / glucosamine / methylsulfonylmethane": {
+      "rxcui": "1007537",
+      "matched_name": "chondroitin sulfates / glucosamine / methylsulfonylmethane",
+      "score": "18.300951290130616"
+    },
+    "cilastatin": {
+      "rxcui": "2540",
+      "matched_name": "cilastatin",
+      "score": "10.427217483520508"
+    },
+    "cilostazoL (PLETAL)": {
+      "rxcui": "368249",
+      "matched_name": "cilostazol Oral Tablet [Pletal]",
+      "score": "18.602968915497783"
+    },
+    "cilostazol Oral Tablet [Pletal]": {
+      "rxcui": "368249",
+      "matched_name": "cilostazol Oral Tablet [Pletal]",
+      "score": "18.602968915497783"
+    },
+    "ciprofloxacin": {
+      "rxcui": "2551",
+      "matched_name": "ciprofloxacin",
+      "score": "100"
+    },
+    "citalopram": {
+      "rxcui": "2556",
+      "matched_name": "citalopram",
+      "score": "100"
+    },
+    "citral": {
+      "rxcui": "1362890",
+      "matched_name": "citral",
+      "score": "11.33305549621582"
+    },
+    "clarispray": {
+      "rxcui": "1742498",
+      "matched_name": "Clarispray",
+      "score": "15.131941795349121"
+    },
+    "clobetasol": {
+      "rxcui": "2590",
+      "matched_name": "clobetasol",
+      "score": "100"
+    },
+    "clobetasol propionate": {
+      "rxcui": "21245",
+      "matched_name": "clobetasol propionate",
+      "score": "13.730995178222656"
+    },
+    "clonazepam": {
+      "rxcui": "2598",
+      "matched_name": "clonazepam",
+      "score": "12.506986618041992"
+    },
+    "clonidine": {
+      "rxcui": "2599",
+      "matched_name": "clonidine",
+      "score": "12.05494499206543"
+    },
+    "clopidogrel": {
+      "rxcui": "32968",
+      "matched_name": "clopidogrel",
+      "score": "100"
+    },
+    "cobicistat": {
+      "rxcui": "1306284",
+      "matched_name": "cobicistat",
+      "score": "100"
+    },
+    "colchicine": {
+      "rxcui": "2683",
+      "matched_name": "colchicine",
+      "score": "13.02006721496582"
+    },
+    "colesevelam": {
+      "rxcui": "141626",
+      "matched_name": "colesevelam",
+      "score": "100"
+    },
+    "colestipol": {
+      "rxcui": "2685",
+      "matched_name": "colestipol",
+      "score": "100"
+    },
+    "collagen type I": {
+      "rxcui": "1426856",
+      "matched_name": "collagen type I",
+      "score": "14.98710823059082"
+    },
+    "cortisone": {
+      "rxcui": "2878",
+      "matched_name": "cortisone",
+      "score": "12.953392028808594"
+    },
+    "cortisone shot": {
+      "rxcui": "2878",
+      "matched_name": "cortisone",
+      "score": "12.953392028808594"
+    },
+    "crestor": {
+      "rxcui": "320864",
+      "matched_name": "Crestor",
+      "score": "14.034219741821289"
+    },
+    "curcumin": {
+      "rxcui": "2955",
+      "matched_name": "curcumin",
+      "score": "13.821548461914062"
+    },
+    "cyclobenzaprine": {
+      "rxcui": "21949",
+      "matched_name": "cyclobenzaprine",
+      "score": "12.3984375"
+    },
+    "cyclosporine": {
+      "rxcui": "3008",
+      "matched_name": "cyclosporine",
+      "score": "100"
+    },
+    "dapagliflozin": {
+      "rxcui": "1488564",
+      "matched_name": "dapagliflozin",
+      "score": "100"
+    },
+    "dapagliflozin Oral Tablet [Farxiga]": {
+      "rxcui": "1534343",
+      "matched_name": "dapagliflozin Oral Tablet [Farxiga]",
+      "score": "17.51745339870453"
+    },
+    "darunavir": {
+      "rxcui": "460132",
+      "matched_name": "darunavir",
+      "score": "100"
+    },
+    "denosumab": {
+      "rxcui": "993449",
+      "matched_name": "denosumab",
+      "score": "100"
+    },
+    "desmopressin": {
+      "rxcui": "3251",
+      "matched_name": "desmopressin",
+      "score": "12.673660278320312"
+    },
+    "desoximetasone": {
+      "rxcui": "3255",
+      "matched_name": "desoximetasone",
+      "score": "100"
+    },
+    "desvenlafaxine": {
+      "rxcui": "734064",
+      "matched_name": "desvenlafaxine",
+      "score": "100"
+    },
+    "devil's claw preparation": {
+      "rxcui": "236279",
+      "matched_name": "devil's claw preparation",
+      "score": "20.28226246833801"
+    },
+    "dexlansoprazole": {
+      "rxcui": "816346",
+      "matched_name": "dexlansoprazole",
+      "score": "100"
+    },
+    "dextroamphetamine": {
+      "rxcui": "3288",
+      "matched_name": "dextroamphetamine",
+      "score": "100"
+    },
+    "diazepam": {
+      "rxcui": "3322",
+      "matched_name": "diazepam",
+      "score": "100"
+    },
+    "diclofenac": {
+      "rxcui": "3355",
+      "matched_name": "diclofenac",
+      "score": "100"
+    },
+    "diclofenac Topical Gel [Voltaren]": {
+      "rxcui": "752882",
+      "matched_name": "diclofenac Topical Gel [Voltaren]",
+      "score": "10.645932839393616"
+    },
+    "diclofenac sodium": {
+      "rxcui": "203214",
+      "matched_name": "diclofenac sodium",
+      "score": "13.143132209777832"
+    },
+    "diclofenac sodium Topical Gel": {
+      "rxcui": "2648310",
+      "matched_name": "diclofenac sodium Topical Gel",
+      "score": "12.1945660943985"
+    },
+    "diclofenec sodium gel": {
+      "rxcui": "2648310",
+      "matched_name": "diclofenac sodium Topical Gel",
+      "score": "12.1945660943985"
+    },
+    "dicyclomine": {
+      "rxcui": "3361",
+      "matched_name": "dicyclomine",
+      "score": "12.62734603881836"
+    },
+    "digoxin": {
+      "rxcui": "3407",
+      "matched_name": "digoxin",
+      "score": "12.33017349243164"
+    },
+    "diltiazem": {
+      "rxcui": "3443",
+      "matched_name": "diltiazem",
+      "score": "100"
+    },
+    "diltiazem hydrochloride": {
+      "rxcui": "203211",
+      "matched_name": "diltiazem hydrochloride",
+      "score": "12.242377281188965"
+    },
+    "diphenhydramine": {
+      "rxcui": "3498",
+      "matched_name": "diphenhydramine",
+      "score": "100"
+    },
+    "disulfiram": {
+      "rxcui": "3554",
+      "matched_name": "disulfiram",
+      "score": "100"
+    },
+    "docusate": {
+      "rxcui": "82003",
+      "matched_name": "docusate",
+      "score": "100"
+    },
+    "dolutegravir": {
+      "rxcui": "1433868",
+      "matched_name": "dolutegravir",
+      "score": "100"
+    },
+    "donepezil": {
+      "rxcui": "135447",
+      "matched_name": "donepezil",
+      "score": "100"
+    },
+    "dorzolamide": {
+      "rxcui": "60207",
+      "matched_name": "dorzolamide",
+      "score": "13.066312789916992"
+    },
+    "doxepin": {
+      "rxcui": "3638",
+      "matched_name": "doxepin",
+      "score": "12.406578063964844"
+    },
+    "doxycycline": {
+      "rxcui": "3640",
+      "matched_name": "doxycycline",
+      "score": "100"
+    },
+    "doxycycline hyclate": {
+      "rxcui": "23663",
+      "matched_name": "doxycycline hyclate",
+      "score": "15.925935745239258"
+    },
+    "dulaglutide": {
+      "rxcui": "1551291",
+      "matched_name": "dulaglutide",
+      "score": "100"
+    },
+    "duloxetine": {
+      "rxcui": "72625",
+      "matched_name": "duloxetine",
+      "score": "100"
+    },
+    "dupilumab": {
+      "rxcui": "1876376",
+      "matched_name": "dupilumab",
+      "score": "100"
+    },
+    "dutasteride": {
+      "rxcui": "228790",
+      "matched_name": "dutasteride",
+      "score": "13.400280952453613"
+    },
+    "eetamethasone diproeionate": {
+      "rxcui": "19254",
+      "matched_name": "betamethasone dipropionate",
+      "score": "11.033624649047852"
+    },
+    "efavirenz": {
+      "rxcui": "195085",
+      "matched_name": "efavirenz",
+      "score": "100"
+    },
+    "emgality": {
+      "rxcui": "2058873",
+      "matched_name": "Emgality",
+      "score": "14.30486011505127"
+    },
+    "emgality pen": {
+      "rxcui": "2058873",
+      "matched_name": "Emgality",
+      "score": "14.30486011505127"
+    },
+    "empagliflozin": {
+      "rxcui": "1545653",
+      "matched_name": "empagliflozin",
+      "score": "100"
+    },
+    "enalapril": {
+      "rxcui": "3827",
+      "matched_name": "enalapril",
+      "score": "12.418373107910156"
+    },
+    "epi pen": {
+      "rxcui": "6687",
+      "matched_name": "Medihaler-Epi",
+      "score": "11.729966395282746"
+    },
+    "epinephrin injector": {
+      "rxcui": "1661387",
+      "matched_name": "epinephrine Auto-Injector",
+      "score": "13.96594967818618"
+    },
+    "epinephrine": {
+      "rxcui": "3992",
+      "matched_name": "epinephrine",
+      "score": "100"
+    },
+    "epinephrine Auto-Injector": {
+      "rxcui": "1661387",
+      "matched_name": "epinephrine Auto-Injector",
+      "score": "13.96594967818618"
+    },
+    "eptinezumab": {
+      "rxcui": "2282660",
+      "matched_name": "eptinezumab",
+      "score": "100"
+    },
+    "escitalopram": {
+      "rxcui": "321988",
+      "matched_name": "escitalopram",
+      "score": "100"
+    },
+    "esketamine": {
+      "rxcui": "2119365",
+      "matched_name": "esketamine",
+      "score": "100"
+    },
+    "esomeprazole": {
+      "rxcui": "283742",
+      "matched_name": "esomeprazole",
+      "score": "100"
+    },
+    "esomeprazole Injection [Nexium]": {
+      "rxcui": "1728039",
+      "matched_name": "esomeprazole Injection [Nexium]",
+      "score": "14.202839851379395"
+    },
+    "esomeprazole magnesium": {
+      "rxcui": "283562",
+      "matched_name": "esomeprazole magnesium",
+      "score": "14.738840103149414"
+    },
+    "estrace": {
+      "rxcui": "202619",
+      "matched_name": "Estrace",
+      "score": "14.178035736083984"
+    },
+    "estradiol": {
+      "rxcui": "4083",
+      "matched_name": "estradiol",
+      "score": "100"
+    },
+    "estradiol Vaginal Cream": {
+      "rxcui": "378615",
+      "matched_name": "estradiol Vaginal Cream",
+      "score": "10.556456192016602"
+    },
+    "estradiol patch": {
+      "rxcui": "4083",
+      "matched_name": "estradiol",
+      "score": "10.770448684692383"
+    },
+    "estradiol valerate": {
+      "rxcui": "24395",
+      "matched_name": "estradiol valerate",
+      "score": "15.452999114990234"
+    },
+    "estrodiol cream": {
+      "rxcui": "378615",
+      "matched_name": "estradiol Vaginal Cream",
+      "score": "10.556456192016602"
+    },
+    "estrogens, conjugated (USP)": {
+      "rxcui": "4099",
+      "matched_name": "estrogens, conjugated (USP)",
+      "score": "100"
+    },
+    "etanercept": {
+      "rxcui": "214555",
+      "matched_name": "etanercept",
+      "score": "100"
+    },
+    "etanercept Cartridge [Enbrel]": {
+      "rxcui": "2182339",
+      "matched_name": "etanercept Cartridge [Enbrel]",
+      "score": "18.236146926879883"
+    },
+    "etodolac": {
+      "rxcui": "24605",
+      "matched_name": "etodolac",
+      "score": "100"
+    },
+    "evolocumab": {
+      "rxcui": "1665684",
+      "matched_name": "evolocumab",
+      "score": "100"
+    },
+    "exemestane": {
+      "rxcui": "258494",
+      "matched_name": "exemestane",
+      "score": "14.022493362426758"
+    },
+    "ezetimibe": {
+      "rxcui": "341248",
+      "matched_name": "ezetimibe",
+      "score": "100"
+    },
+    "ezetimibe Oral Tablet [Zetia]": {
+      "rxcui": "368566",
+      "matched_name": "ezetimibe Oral Tablet [Zetia]",
+      "score": "17.733579488754273"
+    },
+    "famciclovir": {
+      "rxcui": "68099",
+      "matched_name": "famciclovir",
+      "score": "13.498011589050293"
+    },
+    "famotidine": {
+      "rxcui": "4278",
+      "matched_name": "famotidine",
+      "score": "11.705843925476074"
+    },
+    "faricimab": {
+      "rxcui": "2591519",
+      "matched_name": "faricimab",
+      "score": "100"
+    },
+    "fenofibrate": {
+      "rxcui": "8703",
+      "matched_name": "fenofibrate",
+      "score": "12.129743576049805"
+    },
+    "ferrous sulfate": {
+      "rxcui": "24947",
+      "matched_name": "ferrous sulfate",
+      "score": "100"
+    },
+    "fexofenadine": {
+      "rxcui": "87636",
+      "matched_name": "fexofenadine",
+      "score": "100"
+    },
+    "fezolinetant": {
+      "rxcui": "2637134",
+      "matched_name": "fezolinetant",
+      "score": "100"
+    },
+    "fiber": {
+      "rxcui": "70727",
+      "matched_name": "fiber",
+      "score": "11.585062980651855"
+    },
+    "finasteride": {
+      "rxcui": "25025",
+      "matched_name": "finasteride",
+      "score": "100"
+    },
+    "fish oil": {
+      "rxcui": "4419",
+      "matched_name": "fish oils",
+      "score": "14.370065689086914"
+    },
+    "fish oil - icosapent ethyl": {
+      "rxcui": "1304974",
+      "matched_name": "icosapent ethyl",
+      "score": "17.245071411132812"
+    },
+    "fish oils": {
+      "rxcui": "4419",
+      "matched_name": "fish oils",
+      "score": "14.370065689086914"
+    },
+    "flax seed": {
+      "rxcui": "2001129",
+      "matched_name": "New Zealand flax seed oil",
+      "score": "12.02206930411972"
+    },
+    "flecainide": {
+      "rxcui": "4441",
+      "matched_name": "flecainide",
+      "score": "13.277229309082031"
+    },
+    "fluormethalone (FML)": {
+      "rxcui": "545242",
+      "matched_name": "fluorometholone Ophthalmic Suspension [FML]",
+      "score": "14.215805144786836"
+    },
+    "fluorometholone": {
+      "rxcui": "4491",
+      "matched_name": "fluorometholone",
+      "score": "100"
+    },
+    "fluorometholone Ophthalmic Suspension [FML]": {
+      "rxcui": "545242",
+      "matched_name": "fluorometholone Ophthalmic Suspension [FML]",
+      "score": "14.215805144786836"
+    },
+    "fluorouracil": {
+      "rxcui": "4492",
+      "matched_name": "fluorouracil",
+      "score": "100"
+    },
+    "fluorouracil Topical Cream": {
+      "rxcui": "377700",
+      "matched_name": "fluorouracil Topical Cream",
+      "score": "13.043922240257263"
+    },
+    "fluoxetine": {
+      "rxcui": "4493",
+      "matched_name": "fluoxetine",
+      "score": "100"
+    },
+    "fluoxitine hydro": {
+      "rxcui": "727272",
+      "matched_name": "Hydro 40",
+      "score": "12.28498363494873"
+    },
+    "fluticasone": {
+      "rxcui": "41126",
+      "matched_name": "fluticasone",
+      "score": "100"
+    },
+    "fluticasone / salmeterol": {
+      "rxcui": "284635",
+      "matched_name": "fluticasone / salmeterol",
+      "score": "20.07505989074707"
+    },
+    "fluticasone propionate": {
+      "rxcui": "50121",
+      "matched_name": "fluticasone propionate",
+      "score": "14.922711372375488"
+    },
+    "fluvoxamine": {
+      "rxcui": "42355",
+      "matched_name": "fluvoxamine",
+      "score": "13.054463386535645"
+    },
+    "folic acid": {
+      "rxcui": "4511",
+      "matched_name": "folic acid",
+      "score": "12.206735610961914"
+    },
+    "fremanezumab": {
+      "rxcui": "2056691",
+      "matched_name": "fremanezumab",
+      "score": "100"
+    },
+    "furosemide": {
+      "rxcui": "4603",
+      "matched_name": "furosemide",
+      "score": "100"
+    },
+    "gabapentin": {
+      "rxcui": "25480",
+      "matched_name": "gabapentin",
+      "score": "100"
+    },
+    "gabapentine": {
+      "rxcui": "25480",
+      "matched_name": "gabapentin",
+      "score": "11.912216186523438"
+    },
+    "galcanezumab": {
+      "rxcui": "2058846",
+      "matched_name": "galcanezumab",
+      "score": "100"
+    },
+    "ginger extract": {
+      "rxcui": "285241",
+      "matched_name": "ginger extract",
+      "score": "14.435040473937988"
+    },
+    "glimepiride": {
+      "rxcui": "25789",
+      "matched_name": "glimepiride",
+      "score": "12.671952247619629"
+    },
+    "glipizide": {
+      "rxcui": "4821",
+      "matched_name": "glipizide",
+      "score": "12.460022926330566"
+    },
+    "glycolate": {
+      "rxcui": "70603",
+      "matched_name": "glycolate",
+      "score": "11.093674659729004"
+    },
+    "guanfacine": {
+      "rxcui": "40114",
+      "matched_name": "guanfacine",
+      "score": "100"
+    },
+    "haloperidol": {
+      "rxcui": "5093",
+      "matched_name": "haloperidol",
+      "score": "12.316662788391113"
+    },
+    "humira": {
+      "rxcui": "353484",
+      "matched_name": "Humira",
+      "score": "13.115814208984375"
+    },
+    "hyaluronate": {
+      "rxcui": "62372",
+      "matched_name": "hyaluronate",
+      "score": "100"
+    },
+    "hydrochloric acid": {
+      "rxcui": "5486",
+      "matched_name": "hydrochloric acid",
+      "score": "10.414355418205261"
+    },
+    "hydrochlorothiazid": {
+      "rxcui": "5487",
+      "matched_name": "hydrochlorothiazide",
+      "score": "10.825102806091309"
+    },
+    "hydrochlorothiazide": {
+      "rxcui": "5487",
+      "matched_name": "hydrochlorothiazide",
+      "score": "100"
+    },
+    "hydrochlorothiazide / lisinopril": {
+      "rxcui": "214618",
+      "matched_name": "hydrochlorothiazide / lisinopril",
+      "score": "15.056468963623047"
+    },
+    "hydrochlorothiazide / losartan": {
+      "rxcui": "214619",
+      "matched_name": "hydrochlorothiazide / losartan",
+      "score": "12.069076538085938"
+    },
+    "hydrochlorothiazide / triamterene": {
+      "rxcui": "258337",
+      "matched_name": "hydrochlorothiazide / triamterene",
+      "score": "15.667488098144531"
+    },
+    "hydrochlorothiazide / valsartan": {
+      "rxcui": "214626",
+      "matched_name": "hydrochlorothiazide / valsartan",
+      "score": "15.026448249816895"
+    },
+    "hydrocloric": {
+      "rxcui": "5486",
+      "matched_name": "hydrochloric acid",
+      "score": "10.414355418205261"
+    },
+    "hydrocodone": {
+      "rxcui": "5489",
+      "matched_name": "hydrocodone",
+      "score": "10.480945587158203"
+    },
+    "hydrocodone acetaminophin": {
+      "rxcui": "214182",
+      "matched_name": "acetaminophen / hydrocodone",
+      "score": "11.200342178344727"
+    },
+    "hydrocortizone for back": {
+      "rxcui": "747238",
+      "matched_name": "Pep-Back",
+      "score": "11.85419120788574"
+    },
+    "hydroquinone": {
+      "rxcui": "5509",
+      "matched_name": "hydroquinone",
+      "score": "12.030538558959961"
+    },
+    "hydroxizine Hydrochloride": {
+      "rxcui": "154987",
+      "matched_name": "hydroxyzine hydrochloride",
+      "score": "10.694765090942383"
+    },
+    "hydroxychloroquine": {
+      "rxcui": "5521",
+      "matched_name": "hydroxychloroquine",
+      "score": "100"
+    },
+    "hydroxyurea": {
+      "rxcui": "5552",
+      "matched_name": "hydroxyurea",
+      "score": "13.281272888183594"
+    },
+    "hydroxyzine": {
+      "rxcui": "5553",
+      "matched_name": "hydroxyzine",
+      "score": "100"
+    },
+    "hydroxyzine hydrochloride": {
+      "rxcui": "154987",
+      "matched_name": "hydroxyzine hydrochloride",
+      "score": "10.694765090942383"
+    },
+    "ibandronate": {
+      "rxcui": "115264",
+      "matched_name": "ibandronate",
+      "score": "100"
+    },
+    "ibuprofen": {
+      "rxcui": "5640",
+      "matched_name": "ibuprofen",
+      "score": "100"
+    },
+    "icosapent ethyl": {
+      "rxcui": "1304974",
+      "matched_name": "icosapent ethyl",
+      "score": "17.245071411132812"
+    },
+    "infliximab": {
+      "rxcui": "191831",
+      "matched_name": "infliximab",
+      "score": "100"
+    },
+    "insulin aspart, human": {
+      "rxcui": "51428",
+      "matched_name": "insulin aspart, human",
+      "score": "100"
+    },
+    "insulin degludec": {
+      "rxcui": "1670007",
+      "matched_name": "insulin degludec",
+      "score": "100"
+    },
+    "insulin glargine": {
+      "rxcui": "274783",
+      "matched_name": "insulin glargine",
+      "score": "100"
+    },
+    "insulin glargine Injectable Solution [Lantus]": {
+      "rxcui": "362585",
+      "matched_name": "insulin glargine Injectable Solution [Lantus]",
+      "score": "19.58869171142578"
+    },
+    "insulin lispro": {
+      "rxcui": "86009",
+      "matched_name": "insulin lispro",
+      "score": "100"
+    },
+    "insulin lispro Cartridge [Humalog]": {
+      "rxcui": "1652645",
+      "matched_name": "insulin lispro Cartridge [Humalog]",
+      "score": "19.418624877929688"
+    },
+    "irbesartan": {
+      "rxcui": "83818",
+      "matched_name": "irbesartan",
+      "score": "12.878629684448242"
+    },
+    "iron": {
+      "rxcui": "90176",
+      "matched_name": "iron",
+      "score": "10.393510818481445"
+    },
+    "isosorbide": {
+      "rxcui": "6057",
+      "matched_name": "isosorbide",
+      "score": "12.040199279785156"
+    },
+    "isotretinoin": {
+      "rxcui": "6064",
+      "matched_name": "isotretinoin",
+      "score": "100"
+    },
+    "ketamine": {
+      "rxcui": "6130",
+      "matched_name": "ketamine",
+      "score": "12.622559547424316"
+    },
+    "ketoconazole": {
+      "rxcui": "6135",
+      "matched_name": "ketoconazole",
+      "score": "100"
+    },
+    "klonopine": {
+      "rxcui": "202585",
+      "matched_name": "Klonopin",
+      "score": "13.555477142333984"
+    },
+    "krill oil": {
+      "rxcui": "880350",
+      "matched_name": "krill oil",
+      "score": "15.655342102050781"
+    },
+    "lamotrigine": {
+      "rxcui": "28439",
+      "matched_name": "lamotrigine",
+      "score": "100"
+    },
+    "lansoprazole": {
+      "rxcui": "17128",
+      "matched_name": "lansoprazole",
+      "score": "12.52198600769043"
+    },
+    "latanoprost": {
+      "rxcui": "43611",
+      "matched_name": "latanoprost",
+      "score": "100"
+    },
+    "latanoprost (xalatan": {
+      "rxcui": "542526",
+      "matched_name": "latanoprost Ophthalmic Solution [Xalatan]",
+      "score": "17.990410923957825"
+    },
+    "latanoprost Ophthalmic Solution [Xalatan]": {
+      "rxcui": "542526",
+      "matched_name": "latanoprost Ophthalmic Solution [Xalatan]",
+      "score": "17.990410923957825"
+    },
+    "latanoprost Ophthalmic Suspension": {
+      "rxcui": "2056742",
+      "matched_name": "latanoprost Ophthalmic Suspension",
+      "score": "14.825889659404755"
+    },
+    "latanoprost opthalmic": {
+      "rxcui": "43611",
+      "matched_name": "latanoprost",
+      "score": "13.066312789916992"
+    },
+    "leflunomide": {
+      "rxcui": "27169",
+      "matched_name": "leflunomide",
+      "score": "100"
+    },
+    "levalbuterol": {
+      "rxcui": "237159",
+      "matched_name": "levalbuterol",
+      "score": "100"
+    },
+    "levalbuterol tartrate": {
+      "rxcui": "487066",
+      "matched_name": "levalbuterol tartrate",
+      "score": "11.909318923950195"
+    },
+    "levobuteral tartrate": {
+      "rxcui": "487066",
+      "matched_name": "levalbuterol tartrate",
+      "score": "11.909318923950195"
+    },
+    "levocetirizine": {
+      "rxcui": "356887",
+      "matched_name": "levocetirizine",
+      "score": "13.048612594604492"
+    },
+    "levonorgestrel": {
+      "rxcui": "6373",
+      "matched_name": "levonorgestrel",
+      "score": "100"
+    },
+    "levothyroxine": {
+      "rxcui": "10582",
+      "matched_name": "levothyroxine",
+      "score": "100"
+    },
+    "levothyroxine / liothyronine": {
+      "rxcui": "465675",
+      "matched_name": "levothyroxine / liothyronine",
+      "score": "15.645528793334961"
+    },
+    "levothyroxine sodium": {
+      "rxcui": "40144",
+      "matched_name": "levothyroxine sodium",
+      "score": "12.465801239013672"
+    },
+    "linaclotide": {
+      "rxcui": "1307404",
+      "matched_name": "linaclotide",
+      "score": "100"
+    },
+    "linagliptin": {
+      "rxcui": "1100699",
+      "matched_name": "linagliptin",
+      "score": "100"
+    },
+    "liothyronine": {
+      "rxcui": "10814",
+      "matched_name": "liothyronine",
+      "score": "12.513765335083008"
+    },
+    "lipase": {
+      "rxcui": "6406",
+      "matched_name": "lipase",
+      "score": "100"
+    },
+    "lipitor": {
+      "rxcui": "153165",
+      "matched_name": "Lipitor",
+      "score": "14.034219741821289"
+    },
+    "liraglutide": {
+      "rxcui": "475968",
+      "matched_name": "liraglutide",
+      "score": "100"
+    },
+    "lisdexamfetamine": {
+      "rxcui": "700810",
+      "matched_name": "lisdexamfetamine",
+      "score": "100"
+    },
+    "lisinopril": {
+      "rxcui": "29046",
+      "matched_name": "lisinopril",
+      "score": "11.919201850891113"
+    },
+    "lisinopril - HCTZ": {
+      "rxcui": "214618",
+      "matched_name": "hydrochlorothiazide / lisinopril",
+      "score": "15.056468963623047"
+    },
+    "loratadine": {
+      "rxcui": "28889",
+      "matched_name": "loratadine",
+      "score": "100"
+    },
+    "lorazepam": {
+      "rxcui": "6470",
+      "matched_name": "lorazepam",
+      "score": "100"
+    },
+    "losartan": {
+      "rxcui": "52175",
+      "matched_name": "losartan",
+      "score": "100"
+    },
+    "losartan potassium": {
+      "rxcui": "203160",
+      "matched_name": "losartan potassium",
+      "score": "11.482624053955078"
+    },
+    "losertain potassium": {
+      "rxcui": "203160",
+      "matched_name": "losartan potassium",
+      "score": "11.482624053955078"
+    },
+    "lovastatin": {
+      "rxcui": "6472",
+      "matched_name": "lovastatin",
+      "score": "10.02811336517334"
+    },
+    "low dose asprin": {
+      "rxcui": "215431",
+      "matched_name": "Aspir-Low",
+      "score": "10.738280773162842"
+    },
+    "lubiprostone": {
+      "rxcui": "623033",
+      "matched_name": "lubiprostone",
+      "score": "100"
+    },
+    "lyumjev": {
+      "rxcui": "2380232",
+      "matched_name": "Lyumjev",
+      "score": "13.945465087890625"
+    },
+    "macrobide nitroferatime": {
+      "rxcui": "152001",
+      "matched_name": "Macrobid",
+      "score": "14.687807083129883"
+    },
+    "magnesium": {
+      "rxcui": "6574",
+      "matched_name": "magnesium",
+      "score": "10.148687362670898"
+    },
+    "magnesium oxide": {
+      "rxcui": "6582",
+      "matched_name": "magnesium oxide",
+      "score": "12.891779899597168"
+    },
+    "magnesium oxide / zinc oxide": {
+      "rxcui": "1007451",
+      "matched_name": "magnesium oxide / zinc oxide",
+      "score": "11.664427789052327"
+    },
+    "meclizine": {
+      "rxcui": "6676",
+      "matched_name": "meclizine",
+      "score": "11.77003288269043"
+    },
+    "mecobalamin / vitamin B12": {
+      "rxcui": "1009129",
+      "matched_name": "mecobalamin / vitamin B12",
+      "score": "11.774116516113281"
+    },
+    "medium chain triglycerides": {
+      "rxcui": "1310578",
+      "matched_name": "medium chain triglycerides",
+      "score": "30.965946197509766"
+    },
+    "medroxyprogesterone": {
+      "rxcui": "6691",
+      "matched_name": "medroxyprogesterone",
+      "score": "12.210787773132324"
+    },
+    "melatonin": {
+      "rxcui": "6711",
+      "matched_name": "melatonin",
+      "score": "11.933385848999023"
+    },
+    "meloxicam": {
+      "rxcui": "41493",
+      "matched_name": "meloxicam",
+      "score": "100"
+    },
+    "metformin": {
+      "rxcui": "6809",
+      "matched_name": "metformin",
+      "score": "100"
+    },
+    "metformin hydrochloride": {
+      "rxcui": "235743",
+      "matched_name": "metformin hydrochloride",
+      "score": "12.386534690856934"
+    },
+    "metformin hydrochloride Extended Release Suspension": {
+      "rxcui": "2645770",
+      "matched_name": "metformin hydrochloride Extended Release Suspension",
+      "score": "14.8171400471797"
+    },
+    "methadone": {
+      "rxcui": "6813",
+      "matched_name": "methadone",
+      "score": "12.479211807250977"
+    },
+    "methenamine": {
+      "rxcui": "6832",
+      "matched_name": "methenamine",
+      "score": "11.943609237670898"
+    },
+    "methocarbamol": {
+      "rxcui": "6845",
+      "matched_name": "methocarbamol",
+      "score": "100"
+    },
+    "methotrexate": {
+      "rxcui": "6851",
+      "matched_name": "methotrexate",
+      "score": "100"
+    },
+    "methotrexate sodium": {
+      "rxcui": "287734",
+      "matched_name": "methotrexate sodium",
+      "score": "13.701089859008789"
+    },
+    "methylphenidate": {
+      "rxcui": "6901",
+      "matched_name": "methylphenidate",
+      "score": "100"
+    },
+    "methylsulfonylmethane": {
+      "rxcui": "23247",
+      "matched_name": "methylsulfonylmethane",
+      "score": "100"
+    },
+    "metopralol tartrate": {
+      "rxcui": "203191",
+      "matched_name": "metoprolol tartrate",
+      "score": "12.285845756530762"
+    },
+    "metoprolol": {
+      "rxcui": "6918",
+      "matched_name": "metoprolol",
+      "score": "100"
+    },
+    "metoprolol Extended Release Oral Capsule": {
+      "rxcui": "1999027",
+      "matched_name": "metoprolol Extended Release Oral Capsule",
+      "score": "11.164836554625422"
+    },
+    "metoprolol tartrate": {
+      "rxcui": "203191",
+      "matched_name": "metoprolol tartrate",
+      "score": "12.285845756530762"
+    },
+    "metronidazole": {
+      "rxcui": "6922",
+      "matched_name": "metronidazole",
+      "score": "100"
+    },
+    "midodrine": {
+      "rxcui": "6963",
+      "matched_name": "midodrine",
+      "score": "13.115814208984375"
+    },
+    "minoxidil": {
+      "rxcui": "6984",
+      "matched_name": "minoxidil",
+      "score": "11.461260795593262"
+    },
+    "mirabegron": {
+      "rxcui": "1300786",
+      "matched_name": "mirabegron",
+      "score": "100"
+    },
+    "mirabegron Extended Release Suspension": {
+      "rxcui": "2541232",
+      "matched_name": "mirabegron Extended Release Suspension",
+      "score": "11.612129841896536"
+    },
+    "mirtazapine": {
+      "rxcui": "15996",
+      "matched_name": "mirtazapine",
+      "score": "100"
+    },
+    "modafinil": {
+      "rxcui": "30125",
+      "matched_name": "modafinil",
+      "score": "100"
+    },
+    "montelukast": {
+      "rxcui": "88249",
+      "matched_name": "montelukast",
+      "score": "100"
+    },
+    "montelukast prilosec": {
+      "rxcui": "203345",
+      "matched_name": "Prilosec",
+      "score": "13.754889488220215"
+    },
+    "montelukast sodium": {
+      "rxcui": "115713",
+      "matched_name": "montelukast sodium",
+      "score": "10.067098617553711"
+    },
+    "mrabegron ER": {
+      "rxcui": "2541232",
+      "matched_name": "mirabegron Extended Release Suspension",
+      "score": "11.612129841896536"
+    },
+    "mycophenolate mofetil": {
+      "rxcui": "68149",
+      "matched_name": "mycophenolate mofetil",
+      "score": "100"
+    },
+    "nadolol": {
+      "rxcui": "7226",
+      "matched_name": "nadolol",
+      "score": "13.028509140014648"
+    },
+    "naltrexone": {
+      "rxcui": "7243",
+      "matched_name": "naltrexone",
+      "score": "12.488348960876465"
+    },
+    "naproxen": {
+      "rxcui": "7258",
+      "matched_name": "naproxen",
+      "score": "11.579986572265625"
+    },
+    "niacin": {
+      "rxcui": "7393",
+      "matched_name": "niacin",
+      "score": "10.993949890136719"
+    },
+    "nifedipine": {
+      "rxcui": "7417",
+      "matched_name": "nifedipine",
+      "score": "12.010937690734863"
+    },
+    "nitrofurantoin": {
+      "rxcui": "7454",
+      "matched_name": "nitrofurantoin",
+      "score": "100"
+    },
+    "nizoral": {
+      "rxcui": "202692",
+      "matched_name": "Nizoral",
+      "score": "13.924921989440918"
+    },
+    "nortriptyline": {
+      "rxcui": "7531",
+      "matched_name": "nortriptyline",
+      "score": "100"
+    },
+    "nurtec": {
+      "rxcui": "2282314",
+      "matched_name": "Nurtec",
+      "score": "14.936612129211426"
+    },
+    "olanzapine": {
+      "rxcui": "61381",
+      "matched_name": "olanzapine",
+      "score": "12.101890563964844"
+    },
+    "olmesartan": {
+      "rxcui": "321064",
+      "matched_name": "olmesartan",
+      "score": "12.189849853515625"
+    },
+    "omeprazole": {
+      "rxcui": "7646",
+      "matched_name": "omeprazole",
+      "score": "11.923898696899414"
+    },
+    "omeprazole dr": {
+      "rxcui": "7646",
+      "matched_name": "omeprazole",
+      "score": "11.923898696899414"
+    },
+    "omeprazole otc": {
+      "rxcui": "7646",
+      "matched_name": "omeprazole",
+      "score": "11.923898696899414"
+    },
+    "ondansetron": {
+      "rxcui": "26225",
+      "matched_name": "ondansetron",
+      "score": "100"
+    },
+    "osimertinib": {
+      "rxcui": "1721560",
+      "matched_name": "osimertinib",
+      "score": "100"
+    },
+    "oxaprozin": {
+      "rxcui": "32613",
+      "matched_name": "oxaprozin",
+      "score": "100"
+    },
+    "oxybutynin": {
+      "rxcui": "32675",
+      "matched_name": "oxybutynin",
+      "score": "12.458761215209961"
+    },
+    "oxycodone": {
+      "rxcui": "7804",
+      "matched_name": "oxycodone",
+      "score": "100"
+    },
+    "oxycodone hydrochloride": {
+      "rxcui": "82063",
+      "matched_name": "oxycodone hydrochloride",
+      "score": "12.449555397033691"
+    },
+    "pantethine": {
+      "rxcui": "32863",
+      "matched_name": "pantethine",
+      "score": "11.804282188415527"
+    },
+    "pantoprazole": {
+      "rxcui": "40790",
+      "matched_name": "pantoprazole",
+      "score": "12.560216903686523"
+    },
+    "paroxetine": {
+      "rxcui": "32937",
+      "matched_name": "paroxetine",
+      "score": "100"
+    },
+    "peptide-T": {
+      "rxcui": "2644766",
+      "matched_name": "peptide-T",
+      "score": "10.906929561755636"
+    },
+    "phenazopyridine": {
+      "rxcui": "8120",
+      "matched_name": "phenazopyridine",
+      "score": "100"
+    },
+    "phentermine": {
+      "rxcui": "8152",
+      "matched_name": "phentermine",
+      "score": "100"
+    },
+    "placebo": {
+      "rxcui": "8375",
+      "matched_name": "placebo",
+      "score": "12.95085334777832"
+    },
+    "polyethylene glycol 3350": {
+      "rxcui": "221147",
+      "matched_name": "polyethylene glycol 3350",
+      "score": "100"
+    },
+    "polythien glycol": {
+      "rxcui": "70603",
+      "matched_name": "glycolate",
+      "score": "11.093674659729004"
+    },
+    "posaconazole": {
+      "rxcui": "282446",
+      "matched_name": "posaconazole",
+      "score": "13.245692253112793"
+    },
+    "potasium chloride": {
+      "rxcui": "8591",
+      "matched_name": "potassium chloride",
+      "score": "10.083723068237305"
+    },
+    "potassium": {
+      "rxcui": "8588",
+      "matched_name": "potassium",
+      "score": "10.188580513000488"
+    },
+    "potassium chloride": {
+      "rxcui": "8591",
+      "matched_name": "potassium chloride",
+      "score": "100"
+    },
+    "potassium chloride Extended Release Oral Capsule": {
+      "rxcui": "373520",
+      "matched_name": "potassium chloride Extended Release Oral Capsule",
+      "score": "14.448034727631498"
+    },
+    "potassium citrate": {
+      "rxcui": "54993",
+      "matched_name": "potassium citrate",
+      "score": "13.229226112365723"
+    },
+    "pramipexole": {
+      "rxcui": "746741",
+      "matched_name": "pramipexole",
+      "score": "100"
+    },
+    "pramipexole dihydrochloride": {
+      "rxcui": "236747",
+      "matched_name": "pramipexole dihydrochloride",
+      "score": "12.384560585021973"
+    },
+    "pravastatin": {
+      "rxcui": "42463",
+      "matched_name": "pravastatin",
+      "score": "100"
+    },
+    "prazosin": {
+      "rxcui": "8629",
+      "matched_name": "prazosin",
+      "score": "100"
+    },
+    "prazosin hydrochloride": {
+      "rxcui": "203210",
+      "matched_name": "prazosin hydrochloride",
+      "score": "13.835647583007812"
+    },
+    "prednisolone": {
+      "rxcui": "8638",
+      "matched_name": "prednisolone",
+      "score": "11.40695571899414"
+    },
+    "prednisolone acetate Ophthalmic Suspension": {
+      "rxcui": "2645921",
+      "matched_name": "prednisolone acetate Ophthalmic Suspension",
+      "score": "15.13410797071457"
+    },
+    "prednisone": {
+      "rxcui": "8640",
+      "matched_name": "prednisone",
+      "score": "12.010937690734863"
+    },
+    "pregabalin": {
+      "rxcui": "187832",
+      "matched_name": "pregabalin",
+      "score": "100"
+    },
+    "pregnenolone": {
+      "rxcui": "114052",
+      "matched_name": "pregnenolone",
+      "score": "14.340490341186523"
+    },
+    "progesteron": {
+      "rxcui": "8727",
+      "matched_name": "progesterone",
+      "score": "12.351478576660156"
+    },
+    "progesterone": {
+      "rxcui": "8727",
+      "matched_name": "progesterone",
+      "score": "12.351478576660156"
+    },
+    "propranolol": {
+      "rxcui": "8787",
+      "matched_name": "propranolol",
+      "score": "12.015619277954102"
+    },
+    "provigil": {
+      "rxcui": "219484",
+      "matched_name": "Provigil",
+      "score": "14.552087783813477"
+    },
+    "pseudoephedrine": {
+      "rxcui": "8896",
+      "matched_name": "pseudoephedrine",
+      "score": "100"
+    },
+    "pyridostigmine": {
+      "rxcui": "9000",
+      "matched_name": "pyridostigmine",
+      "score": "100"
+    },
+    "pyridostigmine bromide": {
+      "rxcui": "9001",
+      "matched_name": "pyridostigmine bromide",
+      "score": "16.74861717224121"
+    },
+    "rabeprazole": {
+      "rxcui": "114979",
+      "matched_name": "rabeprazole",
+      "score": "100"
+    },
+    "raloxifene": {
+      "rxcui": "72143",
+      "matched_name": "raloxifene",
+      "score": "13.746984481811523"
+    },
+    "raltegravir": {
+      "rxcui": "719872",
+      "matched_name": "raltegravir",
+      "score": "100"
+    },
+    "ramelteon": {
+      "rxcui": "596205",
+      "matched_name": "ramelteon",
+      "score": "100"
+    },
+    "rasuvo": {
+      "rxcui": "1544379",
+      "matched_name": "Rasuvo",
+      "score": "13.686750411987305"
+    },
+    "reclast infusion": {
+      "rxcui": "705872",
+      "matched_name": "Reclast",
+      "score": "14.718400955200195"
+    },
+    "red yeast rice": {
+      "rxcui": "232540",
+      "matched_name": "red yeast rice",
+      "score": "20.561992645263672"
+    },
+    "remicade": {
+      "rxcui": "219610",
+      "matched_name": "Remicade",
+      "score": "14.936612129211426"
+    },
+    "resmetirom": {
+      "rxcui": "2677894",
+      "matched_name": "resmetirom",
+      "score": "100"
+    },
+    "restasis": {
+      "rxcui": "352951",
+      "matched_name": "Restasis",
+      "score": "14.481673240661621"
+    },
+    "rilpivirine": {
+      "rxcui": "1102270",
+      "matched_name": "rilpivirine",
+      "score": "13.119027137756348"
+    },
+    "rimegepant": {
+      "rxcui": "2282307",
+      "matched_name": "rimegepant",
+      "score": "100"
+    },
+    "risedronate": {
+      "rxcui": "73056",
+      "matched_name": "risedronate",
+      "score": "100"
+    },
+    "rituximab": {
+      "rxcui": "121191",
+      "matched_name": "rituximab",
+      "score": "100"
+    },
+    "rivaroxaban": {
+      "rxcui": "1114195",
+      "matched_name": "rivaroxaban",
+      "score": "100"
+    },
+    "rizatriptan": {
+      "rxcui": "88014",
+      "matched_name": "rizatriptan",
+      "score": "100"
+    },
+    "roflumilast": {
+      "rxcui": "1091836",
+      "matched_name": "roflumilast",
+      "score": "13.439788818359375"
+    },
+    "ropinirole": {
+      "rxcui": "72302",
+      "matched_name": "ropinirole",
+      "score": "100"
+    },
+    "ropinirole hydrochloride": {
+      "rxcui": "236553",
+      "matched_name": "ropinirole hydrochloride",
+      "score": "13.532468795776367"
+    },
+    "rosuvastatin": {
+      "rxcui": "301542",
+      "matched_name": "rosuvastatin",
+      "score": "100"
+    },
+    "rutin": {
+      "rxcui": "9500",
+      "matched_name": "rutin",
+      "score": "12.772631645202637"
+    },
+    "sacubitril": {
+      "rxcui": "1656328",
+      "matched_name": "sacubitril",
+      "score": "100"
+    },
+    "sacubitril / valsartan Oral Pellet [Entresto]": {
+      "rxcui": "2679796",
+      "matched_name": "sacubitril / valsartan Oral Pellet [Entresto]",
+      "score": "20.58907127380371"
+    },
+    "salicin": {
+      "rxcui": "36100",
+      "matched_name": "salicin",
+      "score": "10.18828296661377"
+    },
+    "salmeterol": {
+      "rxcui": "36117",
+      "matched_name": "salmeterol",
+      "score": "100"
+    },
+    "selenium": {
+      "rxcui": "9641",
+      "matched_name": "selenium",
+      "score": "11.360235214233398"
+    },
+    "selenium sulfide": {
+      "rxcui": "36345",
+      "matched_name": "selenium sulfide",
+      "score": "100"
+    },
+    "selenium sulfide Medicated Shampoo": {
+      "rxcui": "377509",
+      "matched_name": "selenium sulfide Medicated Shampoo",
+      "score": "17.5769653301239"
+    },
+    "semaglutide": {
+      "rxcui": "1991302",
+      "matched_name": "semaglutide",
+      "score": "100"
+    },
+    "sertraline": {
+      "rxcui": "36437",
+      "matched_name": "sertraline",
+      "score": "100"
+    },
+    "sertraline hydrochloride": {
+      "rxcui": "155137",
+      "matched_name": "sertraline hydrochloride",
+      "score": "13.607461929321289"
+    },
+    "sildenafil": {
+      "rxcui": "136411",
+      "matched_name": "sildenafil",
+      "score": "100"
+    },
+    "sildenafil citrate": {
+      "rxcui": "221161",
+      "matched_name": "sildenafil citrate",
+      "score": "15.437508583068848"
+    },
+    "simvastatin": {
+      "rxcui": "36567",
+      "matched_name": "simvastatin",
+      "score": "12.107220649719238"
+    },
+    "solifenacin": {
+      "rxcui": "322167",
+      "matched_name": "solifenacin",
+      "score": "100"
+    },
+    "spironolactone": {
+      "rxcui": "9997",
+      "matched_name": "spironolactone",
+      "score": "100"
+    },
+    "spravato": {
+      "rxcui": "2119382",
+      "matched_name": "Spravato",
+      "score": "14.527825355529785"
+    },
+    "sucralfate": {
+      "rxcui": "10156",
+      "matched_name": "sucralfate",
+      "score": "100"
+    },
+    "sulfacetamide": {
+      "rxcui": "10169",
+      "matched_name": "sulfacetamide",
+      "score": "100"
+    },
+    "sulfacetamide / sulfur": {
+      "rxcui": "690740",
+      "matched_name": "sulfacetamide / sulfur",
+      "score": "23.33826446533203"
+    },
+    "sumatriptan": {
+      "rxcui": "37418",
+      "matched_name": "sumatriptan",
+      "score": "100"
+    },
+    "sumatriptan succinate": {
+      "rxcui": "67158",
+      "matched_name": "sumatriptan succinate",
+      "score": "15.438167572021484"
+    },
+    "synthroid": {
+      "rxcui": "224920",
+      "matched_name": "Synthroid",
+      "score": "13.063331604003906"
+    },
+    "tacrolimus": {
+      "rxcui": "42316",
+      "matched_name": "tacrolimus",
+      "score": "12.468912124633789"
+    },
+    "tadalafil": {
+      "rxcui": "358263",
+      "matched_name": "tadalafil",
+      "score": "100"
+    },
+    "tagrisso": {
+      "rxcui": "1721566",
+      "matched_name": "Tagrisso",
+      "score": "14.687807083129883"
+    },
+    "tamoxifen": {
+      "rxcui": "10324",
+      "matched_name": "tamoxifen",
+      "score": "13.18303108215332"
+    },
+    "tamsulosin": {
+      "rxcui": "77492",
+      "matched_name": "tamsulosin",
+      "score": "100"
+    },
+    "tamsulosin hydrochloride": {
+      "rxcui": "236495",
+      "matched_name": "tamsulosin hydrochloride",
+      "score": "14.11650276184082"
+    },
+    "tartrate": {
+      "rxcui": "1314221",
+      "matched_name": "tartrate",
+      "score": "11.216341972351074"
+    },
+    "temazepam": {
+      "rxcui": "10355",
+      "matched_name": "temazepam",
+      "score": "12.968827247619629"
+    },
+    "tenofovir alafenamide": {
+      "rxcui": "1721603",
+      "matched_name": "tenofovir alafenamide",
+      "score": "100"
+    },
+    "terazosin": {
+      "rxcui": "37798",
+      "matched_name": "terazosin",
+      "score": "12.772631645202637"
+    },
+    "terbinafine": {
+      "rxcui": "37801",
+      "matched_name": "terbinafine",
+      "score": "100"
+    },
+    "terbinafine hydrochloride": {
+      "rxcui": "235838",
+      "matched_name": "terbinafine hydrochloride",
+      "score": "13.641691207885742"
+    },
+    "testosterone": {
+      "rxcui": "10379",
+      "matched_name": "testosterone",
+      "score": "11.702396392822266"
+    },
+    "tetrahydrozoline": {
+      "rxcui": "37935",
+      "matched_name": "tetrahydrozoline",
+      "score": "100"
+    },
+    "thyroid (USP)": {
+      "rxcui": "10572",
+      "matched_name": "thyroid (USP)",
+      "score": "100"
+    },
+    "timolol": {
+      "rxcui": "10600",
+      "matched_name": "timolol",
+      "score": "12.184710502624512"
+    },
+    "timolol (TIMPTPIC": {
+      "rxcui": "10600",
+      "matched_name": "timolol",
+      "score": "12.184710502624512"
+    },
+    "timolol maleage": {
+      "rxcui": "42933",
+      "matched_name": "timolol maleate",
+      "score": "12.354642868041992"
+    },
+    "timolol maleate": {
+      "rxcui": "42933",
+      "matched_name": "timolol maleate",
+      "score": "12.354642868041992"
+    },
+    "tiotropium": {
+      "rxcui": "69120",
+      "matched_name": "tiotropium",
+      "score": "100"
+    },
+    "tirzepatide": {
+      "rxcui": "2601723",
+      "matched_name": "tirzepatide",
+      "score": "100"
+    },
+    "tizanidine": {
+      "rxcui": "57258",
+      "matched_name": "tizanidine",
+      "score": "12.63055419921875"
+    },
+    "tobramycin": {
+      "rxcui": "10627",
+      "matched_name": "tobramycin",
+      "score": "100"
+    },
+    "tofacitinib": {
+      "rxcui": "1357536",
+      "matched_name": "tofacitinib",
+      "score": "100"
+    },
+    "tolnaftate": {
+      "rxcui": "10637",
+      "matched_name": "tolnaftate",
+      "score": "100"
+    },
+    "topiramate": {
+      "rxcui": "38404",
+      "matched_name": "topiramate",
+      "score": "100"
+    },
+    "topiramate Oral Tablet [Topamax]": {
+      "rxcui": "367661",
+      "matched_name": "topiramate Oral Tablet [Topamax]",
+      "score": "16.51771319293976"
+    },
+    "toujeo": {
+      "rxcui": "1604540",
+      "matched_name": "Toujeo",
+      "score": "14.459686279296875"
+    },
+    "tramadol": {
+      "rxcui": "10689",
+      "matched_name": "tramadol",
+      "score": "12.002984046936035"
+    },
+    "travoprost": {
+      "rxcui": "283809",
+      "matched_name": "travoprost",
+      "score": "13.624631881713867"
+    },
+    "trazodone": {
+      "rxcui": "10737",
+      "matched_name": "trazodone",
+      "score": "100"
+    },
+    "trazodone hydrochloride": {
+      "rxcui": "82112",
+      "matched_name": "trazodone hydrochloride",
+      "score": "13.593507766723633"
+    },
+    "treprostinil": {
+      "rxcui": "343048",
+      "matched_name": "treprostinil",
+      "score": "100"
+    },
+    "tretinoin": {
+      "rxcui": "10753",
+      "matched_name": "tretinoin",
+      "score": "11.938779830932617"
+    },
+    "triamcinolone": {
+      "rxcui": "10759",
+      "matched_name": "triamcinolone",
+      "score": "100"
+    },
+    "triamcinolone Ophthalmic Ointment": {
+      "rxcui": "376587",
+      "matched_name": "triamcinolone Ophthalmic Ointment",
+      "score": "13.407288744926454"
+    },
+    "triamcinolone acetonide": {
+      "rxcui": "10761",
+      "matched_name": "triamcinolone acetonide",
+      "score": "11.921612739562988"
+    },
+    "triamcinolone acetonide  (KENALOG)": {
+      "rxcui": "2656306",
+      "matched_name": "triamcinolone acetonide Injection [Kenalog]",
+      "score": "19.020784378051758"
+    },
+    "triamcinolone acetonide Injection [Kenalog]": {
+      "rxcui": "2656306",
+      "matched_name": "triamcinolone acetonide Injection [Kenalog]",
+      "score": "19.020784378051758"
+    },
+    "triamcynalone acetonide": {
+      "rxcui": "10761",
+      "matched_name": "triamcinolone acetonide",
+      "score": "11.921612739562988"
+    },
+    "triamterene": {
+      "rxcui": "10763",
+      "matched_name": "triamterene",
+      "score": "100"
+    },
+    "triprolidine": {
+      "rxcui": "10849",
+      "matched_name": "triprolidine",
+      "score": "100"
+    },
+    "trospium": {
+      "rxcui": "236778",
+      "matched_name": "trospium",
+      "score": "13.125496864318848"
+    },
+    "trovastatin": {
+      "rxcui": "6472",
+      "matched_name": "lovastatin",
+      "score": "10.02811336517334"
+    },
+    "turmeric oil": {
+      "rxcui": "1373037",
+      "matched_name": "turmeric oil",
+      "score": "12.175658469200135"
+    },
+    "ubrelvi": {
+      "rxcui": "2268222",
+      "matched_name": "Ubrelvy",
+      "score": "14.750386238098145"
+    },
+    "ubrogepant": {
+      "rxcui": "2268216",
+      "matched_name": "ubrogepant",
+      "score": "100"
+    },
+    "urea": {
+      "rxcui": "11002",
+      "matched_name": "urea",
+      "score": "100"
+    },
+    "vabysmo": {
+      "rxcui": "2591590",
+      "matched_name": "Vabysmo",
+      "score": "14.459686279296875"
+    },
+    "valacyclovir": {
+      "rxcui": "73645",
+      "matched_name": "valacyclovir",
+      "score": "100"
+    },
+    "valacyclovir hydrochloride": {
+      "rxcui": "236081",
+      "matched_name": "valacyclovir hydrochloride",
+      "score": "14.012773513793945"
+    },
+    "valsartan": {
+      "rxcui": "69749",
+      "matched_name": "valsartan",
+      "score": "11.886618614196777"
+    },
+    "valtrex": {
+      "rxcui": "152490",
+      "matched_name": "Valtrex",
+      "score": "14.340490341186523"
+    },
+    "vedolizumab": {
+      "rxcui": "1538097",
+      "matched_name": "vedolizumab",
+      "score": "100"
+    },
+    "venlafaxine": {
+      "rxcui": "39786",
+      "matched_name": "venlafaxine",
+      "score": "100"
+    },
+    "venlafaxine Extended Release Oral Capsule [Effexor]": {
+      "rxcui": "729928",
+      "matched_name": "venlafaxine Extended Release Oral Capsule [Effexor]",
+      "score": "14.911458806990474"
+    },
+    "ventilin inhaler": {
+      "rxcui": "1187868",
+      "matched_name": "Ventolin Inhalant Product",
+      "score": "11.677249618053438"
+    },
+    "verapamil": {
+      "rxcui": "11170",
+      "matched_name": "verapamil",
+      "score": "12.067834854125977"
+    },
+    "viagra": {
+      "rxcui": "190465",
+      "matched_name": "Viagra",
+      "score": "14.149604797363281"
+    },
+    "vilanterol": {
+      "rxcui": "1424884",
+      "matched_name": "vilanterol",
+      "score": "100"
+    },
+    "vitamin A": {
+      "rxcui": "11246",
+      "matched_name": "vitamin A",
+      "score": "12.490253448486328"
+    },
+    "vitamin B complex": {
+      "rxcui": "11251",
+      "matched_name": "vitamin B complex",
+      "score": "15.602980613708496"
+    },
+    "vitamin B12": {
+      "rxcui": "11248",
+      "matched_name": "vitamin B12",
+      "score": "11.451719284057617"
+    },
+    "vitamin B12 Injectable Solution": {
+      "rxcui": "371649",
+      "matched_name": "vitamin B12 Injectable Solution",
+      "score": "11.957566885948182"
+    },
+    "vitamin D": {
+      "rxcui": "11253",
+      "matched_name": "vitamin D",
+      "score": "18.525299072265625"
+    },
+    "vitamin D2": {
+      "rxcui": "4018",
+      "matched_name": "vitamin D2",
+      "score": "12.850517272949219"
+    },
+    "vitamin D3": {
+      "rxcui": "1244014",
+      "matched_name": "vitamin D3",
+      "score": "11.60951042175293"
+    },
+    "vitamin E": {
+      "rxcui": "11256",
+      "matched_name": "vitamin E",
+      "score": "100"
+    },
+    "vitamin d2": {
+      "rxcui": "4018",
+      "matched_name": "vitamin D2",
+      "score": "12.850517272949219"
+    },
+    "vortioxetine": {
+      "rxcui": "1455099",
+      "matched_name": "vortioxetine",
+      "score": "100"
+    },
+    "warfarin": {
+      "rxcui": "11289",
+      "matched_name": "warfarin",
+      "score": "100"
+    },
+    "water": {
+      "rxcui": "11295",
+      "matched_name": "water",
+      "score": "11.200576782226562"
+    },
+    "wellbutrin": {
+      "rxcui": "42568",
+      "matched_name": "Wellbutrin",
+      "score": "13.549513816833496"
+    },
+    "zelistine hydro cloride": {
+      "rxcui": "727272",
+      "matched_name": "Hydro 40",
+      "score": "12.28498363494873"
+    },
+    "zinc oxide": {
+      "rxcui": "11423",
+      "matched_name": "zinc oxide",
+      "score": "100"
+    },
+    "zinc oxide Pill": {
+      "rxcui": "1163039",
+      "matched_name": "zinc oxide Pill",
+      "score": "11.041329067039491"
+    },
+    "zoldronic acid": {
+      "rxcui": "77655",
+      "matched_name": "zoledronic acid",
+      "score": "10.237857818603516"
+    },
+    "zoledronic acid": {
+      "rxcui": "77655",
+      "matched_name": "zoledronic acid",
+      "score": "100"
+    },
+    "zolpidem": {
+      "rxcui": "39993",
+      "matched_name": "zolpidem",
+      "score": "100"
+    },
+    "zonisamide": {
+      "rxcui": "39998",
+      "matched_name": "zonisamide",
+      "score": "13.269211769104004"
+    }
+  },
+  "rxcui_to_tty": {
+    "1007451": "MIN",
+    "1007537": "MIN",
+    "1009129": "MIN",
+    "1014651": "BN",
+    "10324": "IN",
+    "10355": "IN",
+    "10379": "IN",
+    "104416": "PIN",
+    "10582": "IN",
+    "10600": "IN",
+    "10689": "IN",
+    "10737": "IN",
+    "10753": "IN",
+    "10759": "IN",
+    "10761": "PIN",
+    "108038": "MIN",
+    "10814": "IN",
+    "1091836": "IN",
+    "1095698": "BN",
+    "1100703": "BN",
+    "1102270": "IN",
+    "1114199": "BN",
+    "11170": "IN",
+    "11246": "IN",
+    "11248": "IN",
+    "11251": "IN",
+    "11253": "IN",
+    "11256": "IN",
+    "11289": "IN",
+    "11295": "IN",
+    "114052": "IN",
+    "114228": "BN",
+    "114265": "BN",
+    "1151": "IN",
+    "115264": "IN",
+    "115713": "PIN",
+    "1169793": "SBDG",
+    "1171309": "SBDG",
+    "1181276": "SBDG",
+    "1187868": "SBDG",
+    "1191": "IN",
+    "1202": "IN",
+    "1244014": "IN",
+    "1292": "IN",
+    "1300786": "IN",
+    "1300792": "BN",
+    "1301664": "BN",
+    "1304974": "IN",
+    "1304980": "BN",
+    "1307410": "BN",
+    "1310578": "IN",
+    "1310948": "SCD",
+    "1314221": "IN",
+    "131725": "BN",
+    "134615": "IN",
+    "134774": "BN",
+    "135446": "BN",
+    "1357542": "BN",
+    "135805": "BN",
+    "1362890": "IN",
+    "136411": "IN",
+    "1364430": "IN",
+    "1364436": "BN",
+    "1372703": "BN",
+    "1373037": "IN",
+    "1373464": "BN",
+    "140587": "IN",
+    "1421452": "BN",
+    "1426856": "IN",
+    "1485753": "BN",
+    "151317": "BN",
+    "151358": "BN",
+    "151533": "BN",
+    "151672": "BN",
+    "151692": "BN",
+    "152001": "BN",
+    "152061": "BN",
+    "152364": "BN",
+    "152490": "BN",
+    "152633": "BN",
+    "152699": "BN",
+    "153010": "BN",
+    "153165": "BN",
+    "1534343": "SBDF",
+    "1538138": "BN",
+    "153889": "BN",
+    "1539887": "BN",
+    "1539891": "SBD",
+    "1544379": "BN",
+    "1545659": "BN",
+    "154987": "PIN",
+    "154990": "BN",
+    "1551296": "BN",
+    "155137": "PIN",
+    "157381": "BN",
+    "1588": "IN",
+    "15996": "IN",
+    "1602110": "BN",
+    "1604540": "BN",
+    "161": "IN",
+    "1652645": "SBDF",
+    "1656341": "BN",
+    "1659157": "BN",
+    "1661387": "SCDF",
+    "1665896": "BN",
+    "16681": "IN",
+    "1670012": "BN",
+    "1712": "IN",
+    "17128": "IN",
+    "1721566": "BN",
+    "1721614": "BN",
+    "1728039": "SBDF",
+    "17300": "IN",
+    "1736859": "BN",
+    "1742498": "BN",
+    "174742": "BN",
+    "1747692": "BN",
+    "17767": "IN",
+    "1790881": "BN",
+    "1808": "IN",
+    "1810299": "BN",
+    "1827": "IN",
+    "18603": "IN",
+    "1876402": "BN",
+    "1894": "IN",
+    "1897": "IN",
+    "190283": "BN",
+    "190465": "BN",
+    "19254": "PIN",
+    "1945040": "BN",
+    "19484": "IN",
+    "194881": "IN",
+    "196458": "BN",
+    "196476": "BN",
+    "196498": "BN",
+    "196502": "BN",
+    "19831": "IN",
+    "1991307": "BN",
+    "1999027": "SCDF",
+    "2001129": "IN",
+    "202363": "BN",
+    "202421": "BN",
+    "202433": "BN",
+    "202462": "BN",
+    "202472": "BN",
+    "202479": "BN",
+    "202488": "BN",
+    "202585": "BN",
+    "202619": "BN",
+    "202692": "BN",
+    "202795": "BN",
+    "202866": "BN",
+    "202877": "BN",
+    "202896": "BN",
+    "202955": "BN",
+    "202991": "BN",
+    "202998": "BN",
+    "203150": "PIN",
+    "203152": "PIN",
+    "203160": "PIN",
+    "203191": "PIN",
+    "203204": "PIN",
+    "203210": "PIN",
+    "203211": "PIN",
+    "203214": "PIN",
+    "203279": "BN",
+    "203302": "BN",
+    "203333": "BN",
+    "203345": "BN",
+    "203457": "BN",
+    "203494": "BN",
+    "20352": "IN",
+    "203563": "BN",
+    "203576": "BN",
+    "2056696": "BN",
+    "2056742": "SCDF",
+    "2058873": "BN",
+    "20610": "IN",
+    "2108226": "SCDF",
+    "2119382": "BN",
+    "2122521": "BN",
+    "21245": "PIN",
+    "214130": "MIN",
+    "214182": "MIN",
+    "214354": "IN",
+    "214618": "MIN",
+    "214619": "MIN",
+    "214626": "MIN",
+    "215393": "BN",
+    "215407": "BN",
+    "215705": "BN",
+    "215927": "BN",
+    "215928": "BN",
+    "216221": "BN",
+    "216653": "BN",
+    "2177": "IN",
+    "217713": "BN",
+    "218002": "BN",
+    "2182339": "SBDF",
+    "218248": "BN",
+    "218772": "BN",
+    "219484": "BN",
+    "21949": "IN",
+    "219610": "BN",
+    "2200645": "BN",
+    "220330": "BN",
+    "220345": "BN",
+    "220606": "BN",
+    "221161": "PIN",
+    "224917": "BN",
+    "224920": "BN",
+    "224945": "BN",
+    "226754": "BN",
+    "2268222": "BN",
+    "227743": "BN",
+    "227897": "PIN",
+    "2282314": "BN",
+    "2283050": "BN",
+    "228790": "IN",
+    "232540": "IN",
+    "235743": "PIN",
+    "235758": "PIN",
+    "235838": "PIN",
+    "236081": "PIN",
+    "236279": "IN",
+    "236495": "PIN",
+    "236553": "PIN",
+    "23663": "PIN",
+    "236747": "PIN",
+    "236778": "IN",
+    "2380232": "BN",
+    "2400": "IN",
+    "2409": "IN",
+    "2418": "IN",
+    "2438": "IN",
+    "24395": "PIN",
+    "24947": "IN",
+    "25025": "IN",
+    "2540": "IN",
+    "2541232": "SCDF",
+    "25480": "IN",
+    "2553502": "BN",
+    "2556": "IN",
+    "25789": "IN",
+    "258337": "MIN",
+    "258494": "IN",
+    "2588044": "BN",
+    "2590": "IN",
+    "2591590": "BN",
+    "2598": "IN",
+    "2599": "IN",
+    "2601723": "IN",
+    "2601734": "BN",
+    "261440": "BN",
+    "261551": "BN",
+    "261575": "BN",
+    "261624": "BN",
+    "262140": "BN",
+    "26225": "IN",
+    "262485": "BN",
+    "2637142": "BN",
+    "2644766": "IN",
+    "2645770": "SCDFP",
+    "2645921": "SCDFP",
+    "2648310": "SCDFP",
+    "2656306": "SBDFP",
+    "2669702": "BN",
+    "2677776": "PIN",
+    "2677900": "BN",
+    "2679796": "SBDF",
+    "2683": "IN",
+    "2685": "IN",
+    "274535": "BN",
+    "281": "IN",
+    "282446": "IN",
+    "282519": "BN",
+    "283562": "PIN",
+    "283742": "IN",
+    "283809": "IN",
+    "284635": "MIN",
+    "284771": "BN",
+    "284799": "BN",
+    "284810": "BN",
+    "284910": "BN",
+    "284918": "BN",
+    "285241": "IN",
+    "287734": "PIN",
+    "2878": "IN",
+    "28874": "BN",
+    "28889": "IN",
+    "29046": "IN",
+    "2955": "IN",
+    "30125": "IN",
+    "301542": "IN",
+    "301543": "BN",
+    "303263": "BN",
+    "320864": "BN",
+    "321064": "IN",
+    "321988": "IN",
+    "322167": "IN",
+    "323994": "IN",
+    "324026": "BN",
+    "3251": "IN",
+    "32675": "IN",
+    "32863": "IN",
+    "32968": "IN",
+    "3322": "IN",
+    "3361": "IN",
+    "3407": "IN",
+    "341248": "IN",
+    "343047": "IN",
+    "3443": "IN",
+    "352393": "BN",
+    "352741": "BN",
+    "352951": "BN",
+    "352990": "BN",
+    "353099": "BN",
+    "353484": "BN",
+    "356887": "IN",
+    "358263": "IN",
+    "358274": "IN",
+    "36100": "IN",
+    "362585": "SBDF",
+    "3638": "IN",
+    "3640": "IN",
+    "36437": "IN",
+    "36567": "IN",
+    "367661": "SBDF",
+    "368566": "SBDF",
+    "369632": "SBDF",
+    "371649": "SCDF",
+    "373520": "SCDF",
+    "37418": "IN",
+    "377509": "SCDF",
+    "377613": "SCDF",
+    "377700": "SCDF",
+    "37798": "IN",
+    "37801": "IN",
+    "378615": "SCDF",
+    "3827": "IN",
+    "38404": "IN",
+    "39786": "IN",
+    "398335": "BN",
+    "3992": "IN",
+    "39993": "IN",
+    "39998": "IN",
+    "40144": "PIN",
+    "4018": "IN",
+    "405052": "BN",
+    "40790": "IN",
+    "4083": "IN",
+    "41126": "IN",
+    "41493": "IN",
+    "42316": "IN",
+    "42347": "IN",
+    "42355": "IN",
+    "42463": "IN",
+    "42568": "BN",
+    "4278": "IN",
+    "42933": "PIN",
+    "435": "IN",
+    "43611": "IN",
+    "4419": "IN",
+    "4441": "IN",
+    "4493": "IN",
+    "4511": "IN",
+    "4603": "IN",
+    "465675": "MIN",
+    "4821": "IN",
+    "482574": "BN",
+    "48470": "BN",
+    "487066": "PIN",
+    "487252": "IN",
+    "491095": "BN",
+    "50121": "PIN",
+    "5093": "IN",
+    "519": "IN",
+    "52175": "IN",
+    "539812": "BN",
+    "540479": "SBDF",
+    "541684": "BN",
+    "542526": "SBDF",
+    "545242": "SBDF",
+    "5486": "IN",
+    "5487": "IN",
+    "5489": "IN",
+    "54993": "IN",
+    "5509": "IN",
+    "5521": "IN",
+    "5552": "IN",
+    "5553": "IN",
+    "5640": "IN",
+    "57258": "IN",
+    "58827": "BN",
+    "58927": "BN",
+    "58930": "BN",
+    "593441": "BN",
+    "596": "IN",
+    "60207": "IN",
+    "603159": "BN",
+    "603917": "BN",
+    "604726": "BN",
+    "6057": "IN",
+    "6130": "IN",
+    "6135": "IN",
+    "61381": "IN",
+    "615205": "BN",
+    "643067": "BN",
+    "643075": "BN",
+    "6470": "IN",
+    "6472": "IN",
+    "6574": "IN",
+    "6582": "IN",
+    "6676": "IN",
+    "6691": "IN",
+    "66981": "BN",
+    "6711": "IN",
+    "67158": "PIN",
+    "6809": "IN",
+    "68099": "IN",
+    "6813": "IN",
+    "6832": "IN",
+    "6845": "IN",
+    "6851": "IN",
+    "6901": "IN",
+    "690740": "MIN",
+    "6918": "IN",
+    "6922": "IN",
+    "6963": "IN",
+    "69749": "IN",
+    "6984": "IN",
+    "700810": "IN",
+    "704": "IN",
+    "705872": "BN",
+    "70603": "IN",
+    "70727": "IN",
+    "711043": "BN",
+    "711372": "BN",
+    "72143": "IN",
+    "7226": "IN",
+    "723": "IN",
+    "72302": "IN",
+    "7243": "IN",
+    "7258": "IN",
+    "72625": "IN",
+    "727272": "BN",
+    "727341": "BN",
+    "729928": "SBDF",
+    "73645": "IN",
+    "7393": "IN",
+    "7417": "IN",
+    "744843": "BN",
+    "746741": "IN",
+    "747238": "BN",
+    "752882": "SBDF",
+    "7531": "IN",
+    "753143": "BN",
+    "7646": "IN",
+    "77492": "IN",
+    "77655": "IN",
+    "7804": "IN",
+    "7866": "BN",
+    "8152": "IN",
+    "816346": "IN",
+    "818102": "MIN",
+    "82000": "BN",
+    "82063": "PIN",
+    "82112": "PIN",
+    "82728": "BN",
+    "829647": "BN",
+    "83156": "BN",
+    "83366": "PIN",
+    "83367": "IN",
+    "83373": "BN",
+    "8375": "IN",
+    "83818": "IN",
+    "84815": "BN",
+    "84857": "IN",
+    "8588": "IN",
+    "8591": "IN",
+    "862007": "BN",
+    "8638": "IN",
+    "8640": "IN",
+    "8703": "IN",
+    "8727": "IN",
+    "8787": "IN",
+    "88014": "IN",
+    "880350": "IN",
+    "88249": "IN",
+    "8887": "BN",
+    "89013": "IN",
+    "897123": "BN",
+    "8998": "BN",
+    "9001": "PIN",
+    "90176": "IN",
+    "902621": "BN",
+    "91413": "IN",
+    "9500": "IN",
+    "9641": "IN",
+    "993453": "BN",
+    "9997": "IN"
+  },
+  "rxcui_to_ingredient": {
+    "1007451": {
+      "rxcui": "11423",
+      "name": "zinc oxide"
+    },
+    "1007537": {
+      "rxcui": "23247",
+      "name": "methylsulfonylmethane"
+    },
+    "1009129": {
+      "rxcui": "11248",
+      "name": "vitamin B12"
+    },
+    "1014651": {
+      "rxcui": "10849",
+      "name": "triprolidine"
+    },
+    "104416": {
+      "rxcui": "17767",
+      "name": "amlodipine"
+    },
+    "10761": {
+      "rxcui": "10759",
+      "name": "triamcinolone"
+    },
+    "108038": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "1095698": {
+      "rxcui": "25480",
+      "name": "gabapentin"
+    },
+    "1100703": {
+      "rxcui": "1100699",
+      "name": "linagliptin"
+    },
+    "1114199": {
+      "rxcui": "1114195",
+      "name": "rivaroxaban"
+    },
+    "114228": {
+      "rxcui": "32937",
+      "name": "paroxetine"
+    },
+    "114265": {
+      "rxcui": "46041",
+      "name": "alendronate"
+    },
+    "115713": {
+      "rxcui": "88249",
+      "name": "montelukast"
+    },
+    "1169793": {
+      "rxcui": "41126",
+      "name": "fluticasone"
+    },
+    "1171309": {
+      "rxcui": "36117",
+      "name": "salmeterol"
+    },
+    "1181276": {
+      "rxcui": "993449",
+      "name": "denosumab"
+    },
+    "1187868": {
+      "rxcui": "435",
+      "name": "albuterol"
+    },
+    "1300792": {
+      "rxcui": "1300786",
+      "name": "mirabegron"
+    },
+    "1301664": {
+      "rxcui": "236782",
+      "name": "Saccharomyces boulardii"
+    },
+    "1304980": {
+      "rxcui": "1304974",
+      "name": "icosapent ethyl"
+    },
+    "1307410": {
+      "rxcui": "1307404",
+      "name": "linaclotide"
+    },
+    "1310948": {
+      "rxcui": "1897",
+      "name": "calcium carbonate"
+    },
+    "131725": {
+      "rxcui": "39993",
+      "name": "zolpidem"
+    },
+    "134774": {
+      "rxcui": "15996",
+      "name": "mirtazapine"
+    },
+    "135446": {
+      "rxcui": "135447",
+      "name": "donepezil"
+    },
+    "1357542": {
+      "rxcui": "1357536",
+      "name": "tofacitinib"
+    },
+    "135805": {
+      "rxcui": "86009",
+      "name": "insulin lispro"
+    },
+    "1364436": {
+      "rxcui": "1364430",
+      "name": "apixaban"
+    },
+    "1372703": {
+      "rxcui": "38404",
+      "name": "topiramate"
+    },
+    "1373464": {
+      "rxcui": "1373458",
+      "name": "canagliflozin"
+    },
+    "1421452": {
+      "rxcui": "134615",
+      "name": "brimonidine"
+    },
+    "1485753": {
+      "rxcui": "343048",
+      "name": "treprostinil"
+    },
+    "151317": {
+      "rxcui": "9997",
+      "name": "spironolactone"
+    },
+    "151358": {
+      "rxcui": "3554",
+      "name": "disulfiram"
+    },
+    "151533": {
+      "rxcui": "2685",
+      "name": "colestipol"
+    },
+    "151672": {
+      "rxcui": "1596",
+      "name": "bisacodyl"
+    },
+    "151692": {
+      "rxcui": "39786",
+      "name": "venlafaxine"
+    },
+    "152001": {
+      "rxcui": "7454",
+      "name": "nitrofurantoin"
+    },
+    "152061": {
+      "rxcui": "6373",
+      "name": "levonorgestrel"
+    },
+    "152364": {
+      "rxcui": "24947",
+      "name": "ferrous sulfate"
+    },
+    "152490": {
+      "rxcui": "73645",
+      "name": "valacyclovir"
+    },
+    "152633": {
+      "rxcui": "68149",
+      "name": "mycophenolate mofetil"
+    },
+    "152699": {
+      "rxcui": "41493",
+      "name": "meloxicam"
+    },
+    "153010": {
+      "rxcui": "5640",
+      "name": "ibuprofen"
+    },
+    "153165": {
+      "rxcui": "83367",
+      "name": "atorvastatin"
+    },
+    "1534343": {
+      "rxcui": "1488564",
+      "name": "dapagliflozin"
+    },
+    "1538138": {
+      "rxcui": "1538097",
+      "name": "vedolizumab"
+    },
+    "153889": {
+      "rxcui": "88249",
+      "name": "montelukast"
+    },
+    "1539887": {
+      "rxcui": "1424884",
+      "name": "vilanterol"
+    },
+    "1539891": {
+      "rxcui": "1424884",
+      "name": "vilanterol"
+    },
+    "1544379": {
+      "rxcui": "6851",
+      "name": "methotrexate"
+    },
+    "1545659": {
+      "rxcui": "1545653",
+      "name": "empagliflozin"
+    },
+    "154987": {
+      "rxcui": "5553",
+      "name": "hydroxyzine"
+    },
+    "154990": {
+      "rxcui": "1827",
+      "name": "buspirone"
+    },
+    "1551296": {
+      "rxcui": "1551291",
+      "name": "dulaglutide"
+    },
+    "155137": {
+      "rxcui": "36437",
+      "name": "sertraline"
+    },
+    "157381": {
+      "rxcui": "32613",
+      "name": "oxaprozin"
+    },
+    "1602110": {
+      "rxcui": "1100699",
+      "name": "linagliptin"
+    },
+    "1604540": {
+      "rxcui": "274783",
+      "name": "insulin glargine"
+    },
+    "1652645": {
+      "rxcui": "86009",
+      "name": "insulin lispro"
+    },
+    "1656341": {
+      "rxcui": "1656328",
+      "name": "sacubitril"
+    },
+    "1659157": {
+      "rxcui": "1659152",
+      "name": "alirocumab"
+    },
+    "1661387": {
+      "rxcui": "3992",
+      "name": "epinephrine"
+    },
+    "1665896": {
+      "rxcui": "1665684",
+      "name": "evolocumab"
+    },
+    "1670012": {
+      "rxcui": "1670007",
+      "name": "insulin degludec"
+    },
+    "1721566": {
+      "rxcui": "1721560",
+      "name": "osimertinib"
+    },
+    "1721614": {
+      "rxcui": "1306284",
+      "name": "cobicistat"
+    },
+    "1728039": {
+      "rxcui": "283742",
+      "name": "esomeprazole"
+    },
+    "1736859": {
+      "rxcui": "274783",
+      "name": "insulin glargine"
+    },
+    "1742498": {
+      "rxcui": "41126",
+      "name": "fluticasone"
+    },
+    "174742": {
+      "rxcui": "32968",
+      "name": "clopidogrel"
+    },
+    "1747692": {
+      "rxcui": "1721603",
+      "name": "tenofovir alafenamide"
+    },
+    "1790881": {
+      "rxcui": "1455099",
+      "name": "vortioxetine"
+    },
+    "1810299": {
+      "rxcui": "8152",
+      "name": "phentermine"
+    },
+    "1876402": {
+      "rxcui": "1876376",
+      "name": "dupilumab"
+    },
+    "190283": {
+      "rxcui": "77492",
+      "name": "tamsulosin"
+    },
+    "190465": {
+      "rxcui": "136411",
+      "name": "sildenafil"
+    },
+    "19254": {
+      "rxcui": "1514",
+      "name": "betamethasone"
+    },
+    "1945040": {
+      "rxcui": "1424884",
+      "name": "vilanterol"
+    },
+    "196458": {
+      "rxcui": "4278",
+      "name": "famotidine"
+    },
+    "196476": {
+      "rxcui": "25025",
+      "name": "finasteride"
+    },
+    "196498": {
+      "rxcui": "25480",
+      "name": "gabapentin"
+    },
+    "196502": {
+      "rxcui": "28439",
+      "name": "lamotrigine"
+    },
+    "1991307": {
+      "rxcui": "1991302",
+      "name": "semaglutide"
+    },
+    "1999027": {
+      "rxcui": "6918",
+      "name": "metoprolol"
+    },
+    "202363": {
+      "rxcui": "596",
+      "name": "alprazolam"
+    },
+    "202421": {
+      "rxcui": "11289",
+      "name": "warfarin"
+    },
+    "202433": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "202462": {
+      "rxcui": "5521",
+      "name": "hydroxychloroquine"
+    },
+    "202472": {
+      "rxcui": "3322",
+      "name": "diazepam"
+    },
+    "202479": {
+      "rxcui": "6470",
+      "name": "lorazepam"
+    },
+    "202488": {
+      "rxcui": "5640",
+      "name": "ibuprofen"
+    },
+    "202585": {
+      "rxcui": "2598",
+      "name": "clonazepam"
+    },
+    "202619": {
+      "rxcui": "4083",
+      "name": "estradiol"
+    },
+    "202692": {
+      "rxcui": "6135",
+      "name": "ketoconazole"
+    },
+    "202795": {
+      "rxcui": "6064",
+      "name": "isotretinoin"
+    },
+    "202866": {
+      "rxcui": "6922",
+      "name": "metronidazole"
+    },
+    "202877": {
+      "rxcui": "10759",
+      "name": "triamcinolone"
+    },
+    "202896": {
+      "rxcui": "4099",
+      "name": "estrogens, conjugated (USP)"
+    },
+    "202955": {
+      "rxcui": "6845",
+      "name": "methocarbamol"
+    },
+    "202991": {
+      "rxcui": "4603",
+      "name": "furosemide"
+    },
+    "202998": {
+      "rxcui": "24605",
+      "name": "etodolac"
+    },
+    "203150": {
+      "rxcui": "20610",
+      "name": "cetirizine"
+    },
+    "203152": {
+      "rxcui": "46041",
+      "name": "alendronate"
+    },
+    "203160": {
+      "rxcui": "52175",
+      "name": "losartan"
+    },
+    "203191": {
+      "rxcui": "6918",
+      "name": "metoprolol"
+    },
+    "203204": {
+      "rxcui": "42347",
+      "name": "bupropion"
+    },
+    "203210": {
+      "rxcui": "8629",
+      "name": "prazosin"
+    },
+    "203211": {
+      "rxcui": "3443",
+      "name": "diltiazem"
+    },
+    "203214": {
+      "rxcui": "3355",
+      "name": "diclofenac"
+    },
+    "203279": {
+      "rxcui": "1712",
+      "name": "botulinum toxin type A"
+    },
+    "203302": {
+      "rxcui": "8896",
+      "name": "pseudoephedrine"
+    },
+    "203333": {
+      "rxcui": "42463",
+      "name": "pravastatin"
+    },
+    "203345": {
+      "rxcui": "7646",
+      "name": "omeprazole"
+    },
+    "203457": {
+      "rxcui": "3498",
+      "name": "diphenhydramine"
+    },
+    "203494": {
+      "rxcui": "3443",
+      "name": "diltiazem"
+    },
+    "203563": {
+      "rxcui": "2551",
+      "name": "ciprofloxacin"
+    },
+    "203576": {
+      "rxcui": "28889",
+      "name": "loratadine"
+    },
+    "2056696": {
+      "rxcui": "2056691",
+      "name": "fremanezumab"
+    },
+    "2056742": {
+      "rxcui": "43611",
+      "name": "latanoprost"
+    },
+    "2058873": {
+      "rxcui": "2058846",
+      "name": "galcanezumab"
+    },
+    "2108226": {
+      "rxcui": "435",
+      "name": "albuterol"
+    },
+    "2119382": {
+      "rxcui": "2119365",
+      "name": "esketamine"
+    },
+    "2122521": {
+      "rxcui": "1433868",
+      "name": "dolutegravir"
+    },
+    "21245": {
+      "rxcui": "2590",
+      "name": "clobetasol"
+    },
+    "214130": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "214182": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "214618": {
+      "rxcui": "29046",
+      "name": "lisinopril"
+    },
+    "214619": {
+      "rxcui": "52175",
+      "name": "losartan"
+    },
+    "214626": {
+      "rxcui": "5487",
+      "name": "hydrochlorothiazide"
+    },
+    "215393": {
+      "rxcui": "27169",
+      "name": "leflunomide"
+    },
+    "215407": {
+      "rxcui": "10572",
+      "name": "thyroid (USP)"
+    },
+    "215705": {
+      "rxcui": "10637",
+      "name": "tolnaftate"
+    },
+    "215927": {
+      "rxcui": "140587",
+      "name": "celecoxib"
+    },
+    "215928": {
+      "rxcui": "2556",
+      "name": "citalopram"
+    },
+    "216221": {
+      "rxcui": "20352",
+      "name": "carvedilol"
+    },
+    "216653": {
+      "rxcui": "5487",
+      "name": "hydrochlorothiazide"
+    },
+    "217713": {
+      "rxcui": "37418",
+      "name": "sumatriptan"
+    },
+    "218002": {
+      "rxcui": "10582",
+      "name": "levothyroxine"
+    },
+    "2182339": {
+      "rxcui": "214555",
+      "name": "etanercept"
+    },
+    "218248": {
+      "rxcui": "88014",
+      "name": "rizatriptan"
+    },
+    "218772": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "219484": {
+      "rxcui": "30125",
+      "name": "modafinil"
+    },
+    "219610": {
+      "rxcui": "191831",
+      "name": "infliximab"
+    },
+    "2200645": {
+      "rxcui": "1991302",
+      "name": "semaglutide"
+    },
+    "220330": {
+      "rxcui": "10627",
+      "name": "tobramycin"
+    },
+    "220345": {
+      "rxcui": "3255",
+      "name": "desoximetasone"
+    },
+    "220606": {
+      "rxcui": "10689",
+      "name": "tramadol"
+    },
+    "221161": {
+      "rxcui": "136411",
+      "name": "sildenafil"
+    },
+    "224917": {
+      "rxcui": "6901",
+      "name": "methylphenidate"
+    },
+    "224920": {
+      "rxcui": "10582",
+      "name": "levothyroxine"
+    },
+    "224945": {
+      "rxcui": "4492",
+      "name": "fluorouracil"
+    },
+    "226754": {
+      "rxcui": "121191",
+      "name": "rituximab"
+    },
+    "2268222": {
+      "rxcui": "2268216",
+      "name": "ubrogepant"
+    },
+    "227743": {
+      "rxcui": "10156",
+      "name": "sucralfate"
+    },
+    "227897": {
+      "rxcui": "1514",
+      "name": "betamethasone"
+    },
+    "2282314": {
+      "rxcui": "2282307",
+      "name": "rimegepant"
+    },
+    "2283050": {
+      "rxcui": "2282660",
+      "name": "eptinezumab"
+    },
+    "235743": {
+      "rxcui": "6809",
+      "name": "metformin"
+    },
+    "235758": {
+      "rxcui": "18867",
+      "name": "benazepril"
+    },
+    "235838": {
+      "rxcui": "37801",
+      "name": "terbinafine"
+    },
+    "236081": {
+      "rxcui": "73645",
+      "name": "valacyclovir"
+    },
+    "236495": {
+      "rxcui": "77492",
+      "name": "tamsulosin"
+    },
+    "236553": {
+      "rxcui": "72302",
+      "name": "ropinirole"
+    },
+    "23663": {
+      "rxcui": "3640",
+      "name": "doxycycline"
+    },
+    "236747": {
+      "rxcui": "746741",
+      "name": "pramipexole"
+    },
+    "2380232": {
+      "rxcui": "86009",
+      "name": "insulin lispro"
+    },
+    "24395": {
+      "rxcui": "4083",
+      "name": "estradiol"
+    },
+    "2541232": {
+      "rxcui": "1300786",
+      "name": "mirabegron"
+    },
+    "2553502": {
+      "rxcui": "1991302",
+      "name": "semaglutide"
+    },
+    "258337": {
+      "rxcui": "10763",
+      "name": "triamterene"
+    },
+    "2588044": {
+      "rxcui": "2475077",
+      "name": "cabotegravir"
+    },
+    "2591590": {
+      "rxcui": "2591519",
+      "name": "faricimab"
+    },
+    "2601734": {
+      "rxcui": "2601723",
+      "name": "tirzepatide"
+    },
+    "261440": {
+      "rxcui": "114979",
+      "name": "rabeprazole"
+    },
+    "261551": {
+      "rxcui": "274783",
+      "name": "insulin glargine"
+    },
+    "261575": {
+      "rxcui": "221147",
+      "name": "polyethylene glycol 3350"
+    },
+    "261624": {
+      "rxcui": "40790",
+      "name": "pantoprazole"
+    },
+    "262140": {
+      "rxcui": "8727",
+      "name": "progesterone"
+    },
+    "262485": {
+      "rxcui": "84857",
+      "name": "anastrozole"
+    },
+    "2637142": {
+      "rxcui": "2637134",
+      "name": "fezolinetant"
+    },
+    "2656306": {
+      "rxcui": "10759",
+      "name": "triamcinolone"
+    },
+    "2669702": {
+      "rxcui": "2601723",
+      "name": "tirzepatide"
+    },
+    "2677776": {
+      "rxcui": "327361",
+      "name": "adalimumab"
+    },
+    "2677900": {
+      "rxcui": "2677894",
+      "name": "resmetirom"
+    },
+    "2679796": {
+      "rxcui": "1656328",
+      "name": "sacubitril"
+    },
+    "274535": {
+      "rxcui": "69120",
+      "name": "tiotropium"
+    },
+    "282519": {
+      "rxcui": "5553",
+      "name": "hydroxyzine"
+    },
+    "283562": {
+      "rxcui": "283742",
+      "name": "esomeprazole"
+    },
+    "284635": {
+      "rxcui": "36117",
+      "name": "salmeterol"
+    },
+    "284771": {
+      "rxcui": "283810",
+      "name": "bimatoprost"
+    },
+    "284799": {
+      "rxcui": "283742",
+      "name": "esomeprazole"
+    },
+    "284810": {
+      "rxcui": "51428",
+      "name": "insulin aspart, human"
+    },
+    "284910": {
+      "rxcui": "10582",
+      "name": "levothyroxine"
+    },
+    "284918": {
+      "rxcui": "141626",
+      "name": "colesevelam"
+    },
+    "287734": {
+      "rxcui": "6851",
+      "name": "methotrexate"
+    },
+    "28874": {
+      "rxcui": "1223",
+      "name": "atropine"
+    },
+    "301543": {
+      "rxcui": "36117",
+      "name": "salmeterol"
+    },
+    "303263": {
+      "rxcui": "358263",
+      "name": "tadalafil"
+    },
+    "320864": {
+      "rxcui": "301542",
+      "name": "rosuvastatin"
+    },
+    "324026": {
+      "rxcui": "87636",
+      "name": "fexofenadine"
+    },
+    "352393": {
+      "rxcui": "89013",
+      "name": "aripiprazole"
+    },
+    "352741": {
+      "rxcui": "321988",
+      "name": "escitalopram"
+    },
+    "352951": {
+      "rxcui": "3008",
+      "name": "cyclosporine"
+    },
+    "352990": {
+      "rxcui": "1819",
+      "name": "buprenorphine"
+    },
+    "353099": {
+      "rxcui": "341248",
+      "name": "ezetimibe"
+    },
+    "353484": {
+      "rxcui": "327361",
+      "name": "adalimumab"
+    },
+    "362585": {
+      "rxcui": "274783",
+      "name": "insulin glargine"
+    },
+    "367661": {
+      "rxcui": "38404",
+      "name": "topiramate"
+    },
+    "368566": {
+      "rxcui": "341248",
+      "name": "ezetimibe"
+    },
+    "369632": {
+      "rxcui": "1897",
+      "name": "calcium carbonate"
+    },
+    "371649": {
+      "rxcui": "11248",
+      "name": "vitamin B12"
+    },
+    "373520": {
+      "rxcui": "8591",
+      "name": "potassium chloride"
+    },
+    "377509": {
+      "rxcui": "36345",
+      "name": "selenium sulfide"
+    },
+    "377613": {
+      "rxcui": "1514",
+      "name": "betamethasone"
+    },
+    "377700": {
+      "rxcui": "4492",
+      "name": "fluorouracil"
+    },
+    "378615": {
+      "rxcui": "4083",
+      "name": "estradiol"
+    },
+    "398335": {
+      "rxcui": "356887",
+      "name": "levocetirizine"
+    },
+    "40144": {
+      "rxcui": "10582",
+      "name": "levothyroxine"
+    },
+    "405052": {
+      "rxcui": "4083",
+      "name": "estradiol"
+    },
+    "42568": {
+      "rxcui": "42347",
+      "name": "bupropion"
+    },
+    "42933": {
+      "rxcui": "10600",
+      "name": "timolol"
+    },
+    "465675": {
+      "rxcui": "10582",
+      "name": "levothyroxine"
+    },
+    "482574": {
+      "rxcui": "72625",
+      "name": "duloxetine"
+    },
+    "48470": {
+      "rxcui": "6406",
+      "name": "lipase"
+    },
+    "487066": {
+      "rxcui": "237159",
+      "name": "levalbuterol"
+    },
+    "491095": {
+      "rxcui": "3443",
+      "name": "diltiazem"
+    },
+    "50121": {
+      "rxcui": "41126",
+      "name": "fluticasone"
+    },
+    "539812": {
+      "rxcui": "322167",
+      "name": "solifenacin"
+    },
+    "540479": {
+      "rxcui": "3288",
+      "name": "dextroamphetamine"
+    },
+    "541684": {
+      "rxcui": "115264",
+      "name": "ibandronate"
+    },
+    "542526": {
+      "rxcui": "43611",
+      "name": "latanoprost"
+    },
+    "545242": {
+      "rxcui": "4491",
+      "name": "fluorometholone"
+    },
+    "58827": {
+      "rxcui": "4493",
+      "name": "fluoxetine"
+    },
+    "58927": {
+      "rxcui": "17767",
+      "name": "amlodipine"
+    },
+    "58930": {
+      "rxcui": "20610",
+      "name": "cetirizine"
+    },
+    "593441": {
+      "rxcui": "187832",
+      "name": "pregabalin"
+    },
+    "603159": {
+      "rxcui": "596205",
+      "name": "ramelteon"
+    },
+    "603917": {
+      "rxcui": "37935",
+      "name": "tetrahydrozoline"
+    },
+    "604726": {
+      "rxcui": "62372",
+      "name": "hyaluronate"
+    },
+    "615205": {
+      "rxcui": "623033",
+      "name": "lubiprostone"
+    },
+    "643067": {
+      "rxcui": "195085",
+      "name": "efavirenz"
+    },
+    "643075": {
+      "rxcui": "460132",
+      "name": "darunavir"
+    },
+    "66981": {
+      "rxcui": "26225",
+      "name": "ondansetron"
+    },
+    "67158": {
+      "rxcui": "37418",
+      "name": "sumatriptan"
+    },
+    "690740": {
+      "rxcui": "10169",
+      "name": "sulfacetamide"
+    },
+    "705872": {
+      "rxcui": "77655",
+      "name": "zoledronic acid"
+    },
+    "711043": {
+      "rxcui": "700810",
+      "name": "lisdexamfetamine"
+    },
+    "711372": {
+      "rxcui": "734064",
+      "name": "desvenlafaxine"
+    },
+    "727272": {
+      "rxcui": "11002",
+      "name": "urea"
+    },
+    "727341": {
+      "rxcui": "3992",
+      "name": "epinephrine"
+    },
+    "729928": {
+      "rxcui": "39786",
+      "name": "venlafaxine"
+    },
+    "744843": {
+      "rxcui": "719872",
+      "name": "raltegravir"
+    },
+    "747238": {
+      "rxcui": "1886",
+      "name": "caffeine"
+    },
+    "752882": {
+      "rxcui": "3355",
+      "name": "diclofenac"
+    },
+    "753143": {
+      "rxcui": "73056",
+      "name": "risedronate"
+    },
+    "7866": {
+      "rxcui": "7531",
+      "name": "nortriptyline"
+    },
+    "818102": {
+      "rxcui": "161",
+      "name": "acetaminophen"
+    },
+    "82000": {
+      "rxcui": "82003",
+      "name": "docusate"
+    },
+    "82063": {
+      "rxcui": "7804",
+      "name": "oxycodone"
+    },
+    "82112": {
+      "rxcui": "10737",
+      "name": "trazodone"
+    },
+    "82728": {
+      "rxcui": "36437",
+      "name": "sertraline"
+    },
+    "829647": {
+      "rxcui": "11256",
+      "name": "vitamin E"
+    },
+    "83156": {
+      "rxcui": "17128",
+      "name": "lansoprazole"
+    },
+    "83366": {
+      "rxcui": "83367",
+      "name": "atorvastatin"
+    },
+    "83373": {
+      "rxcui": "41126",
+      "name": "fluticasone"
+    },
+    "84815": {
+      "rxcui": "3288",
+      "name": "dextroamphetamine"
+    },
+    "862007": {
+      "rxcui": "40114",
+      "name": "guanfacine"
+    },
+    "8887": {
+      "rxcui": "435",
+      "name": "albuterol"
+    },
+    "897123": {
+      "rxcui": "475968",
+      "name": "liraglutide"
+    },
+    "8998": {
+      "rxcui": "8120",
+      "name": "phenazopyridine"
+    },
+    "9001": {
+      "rxcui": "9000",
+      "name": "pyridostigmine"
+    },
+    "902621": {
+      "rxcui": "816346",
+      "name": "dexlansoprazole"
+    },
+    "993453": {
+      "rxcui": "993449",
+      "name": "denosumab"
+    }
+  }
+}

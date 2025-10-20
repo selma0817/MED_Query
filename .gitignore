@@ -1,0 +1,31 @@
+# Config files with API keys
+config.json
+
+# Cache files
+cache.json
+
+# Output files
+output_results.xlsx
+generic_names.xlsx
+inputs/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.sum
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
